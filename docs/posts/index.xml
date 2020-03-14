@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Kwat.org</title>
+        <link>https://kwat.org/posts/</link>
+        <description>Recent content in Posts on Kwat.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 08 Mar 2020 11:00:00 +0000</lastBuildDate>
+        <atom:link href="https://kwat.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Support people facing COVID-19</title>
+            <link>https://kwat.org/posts/support_people_facing_covid-19/</link>
+            <pubDate>Sun, 08 Mar 2020 11:00:00 +0000</pubDate>
+            
+            <guid>https://kwat.org/posts/support_people_facing_covid-19/</guid>
+            <description>If you are experiencing medical emergency, call 911.
+If you need someone to talk to, you can call any of us. We are here for you.
+We are NOT healthcare providers. But we are healthy, with technology, and going to try to help you:
+ Take your call, facetime, and text ~24/7 Answer your questions Link you with your local support system Connect you with a healthy person nearby Order you food Ship you things  Just let us know how we can help you.</description>
+            <content type="html"><![CDATA[<p>If you are experiencing medical emergency, call <strong>911</strong>.</p>
+<p>If you need someone to talk to, you can call any of us. We are here for you.</p>
+<p><strong>We are NOT healthcare providers.</strong> But we are healthy, with technology, and going to try to help you:</p>
+<ul>
+<li>Take your call, facetime, and text ~24/7</li>
+<li>Answer your questions</li>
+<li>Link you with your local support system</li>
+<li>Connect you with a healthy person nearby</li>
+<li>Order you food</li>
+<li>Ship you things</li>
+</ul>
+<p><em>Just let us know how we can help you.</em></p>
+<p>Kwat <span style="color:#20d9ba">@</span> +13477561857</p>
+<p>Kate <span style="color:#20d9ba">@</span> +13477561857</p>
+<p>Alex <span style="color:#20d9ba">@</span> +19167054391‬</p>
+<p>Alexia <span style="color:#20d9ba">@</span> +13138998568</p>
+<p>Brian <span style="color:#20d9ba">@</span> +16198189294</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kwat.org</title>
+    <link>https://kwat.org/</link>
+    <description>Recent content on Kwat.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kwat.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Support people facing COVID-19</title>
+      <link>https://kwat.org/posts/support_people_facing_covid-19/</link>
+      <pubDate>Sun, 08 Mar 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://kwat.org/posts/support_people_facing_covid-19/</guid>
+      <description>If you are experiencing medical emergency, call 911.
+If you need someone to talk to, you can call any of us. We are here for you.
+We are NOT healthcare providers. But we are healthy, with technology, and going to try to help you:
+ Take your call, facetime, and text ~24/7 Answer your questions Link you with your local support system Connect you with a healthy person nearby Order you food Ship you things  Just let us know how we can help you.</description>
+    </item>
+    
+    <item>
+      <title>Kate</title>
+      <link>https://kwat.org/kate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwat.org/kate/</guid>
+      <description>Kate Medetgul-Ernar  I do hardcore genomics.
+  Craft Genomics
+ Education 201209 - 201606 BS, Biochemistry @ University of California, San Diego
+ Work 201405 - 201410 Kristina Bostrom Lab @ UCLA Cardiology
+201309 - 201605 Trey Ideker Lab @ UCSD Medicine
+201506 - Present Cofounder @ Guardiome
+201605 - Present Computational Cancer Analysis Laboratory @ UCSD Moores Cancer Center</description>
+    </item>
+    
+    <item>
+      <title>Kwat</title>
+      <link>https://kwat.org/kwat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwat.org/kwat/</guid>
+      <description>Kwat Medetgul-Ernar (Huwate Yeerna)  I code, compute, and model various diseases. I want to heal people with cancer.
+  Craft Computational Mathematics
+Informatics
+Medicine
+ Education 201109 - 201606 BS, Bioinformatics &amp;amp; Bioengineering @ University of California, San Diego
+201908 - Present MD, Medicine @ Stanford University
+202108 - Present PhD, Biophysics @ Stanford University
+ Work 201006 - 201109 &amp;amp; 201406 - 201409 Kristina Bostrom Lab @ UCLA Cardiology</description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://kwat.org/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwat.org/story/</guid>
+      <description>Coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://kwat.org/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwat.org/team/</guid>
+      <description>Kwat Medetgul-Ernar
+Kate Medetgul-Ernar
+Supporters Paul Graham
+Pablo Tamayo
+Silvio Gutkind</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://kwat.org/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwat.org/work/</guid>
+      <description>We want to help kids with cancer. What happens when a child gets cancer?
+(Event 1 kid) e1k. A kid gets cancer.
+(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
+e2k. The kid gets the treatment.
+e2d. The doctor must monitor and adjust the treatment.
+The kid may not respond well to or tolerate the treatment, and not make it. When the kid makes it:</description>
+    </item>
+    
+  </channel>
+</rss>

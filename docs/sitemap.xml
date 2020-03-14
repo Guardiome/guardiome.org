@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kwat.org/</loc>
+    <lastmod>2020-03-08T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/posts/</loc>
+    <lastmod>2020-03-08T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/posts/support_people_facing_covid-19/</loc>
+    <lastmod>2020-03-08T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/kate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/kwat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/story/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kwat.org/work/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,62 @@
+#baseURL = "https://guardiome.org"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+publishDir = "docs"
+googleAnalytics = "UA-107909561-1"
+disqusShortname = ""
+[author]
+  name = "Kwat.org"
+
+[params]
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  disableReadOtherPosts = false
+
+  description = ""
+  keywords = ""
+  images = [""]
+
+  contentTypeName = "posts"
+
+  defaultTheme = "light"
+
+[languages]
+  [languages.en]
+    title = "Kwat.org"
+    subtitle = "Non-profit cancer informatics company"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    homeSubtitle = "Non-profit cancer informatics company"
+
+    [languages.en.params.logo]
+      logoText = "cd ~"
+      logoHomeLink = "/"
+      #path = "/img/your-example-logo.svg"
+      #alt = "Your example logo alt text"
+
+
+[[menu.main]]
+    identifier = "story"
+    name = "Story"
+    url = "/story"
+
+[[menu.main]]
+    identifier = "work"
+    name = "Work"
+    url = "/work"
+
+[[menu.main]]
+    identifier = "url"
+    name = "Team"
+    url = "/team"
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
