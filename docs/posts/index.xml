@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Kwat.org</title>
-        <link>/posts/</link>
+        <link>https://guardiome.github.io/guardiome.org/posts/</link>
         <description>Recent content in Posts on Kwat.org</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 08 Mar 2020 11:00:00 +0000</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://guardiome.github.io/guardiome.org/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Support people facing COVID-19</title>
-            <link>/posts/support_people_facing_covid-19/</link>
+            <link>https://guardiome.github.io/guardiome.org/posts/support_people_facing_covid-19/</link>
             <pubDate>Sun, 08 Mar 2020 11:00:00 +0000</pubDate>
             
-            <guid>/posts/support_people_facing_covid-19/</guid>
+            <guid>https://guardiome.github.io/guardiome.org/posts/support_people_facing_covid-19/</guid>
             <description>If you are experiencing medical emergency, call 911.
 If you need someone to talk to, you can call any of us. We are here for you.
 We are NOT healthcare providers. But we are healthy, with technology, and going to try to help you:
