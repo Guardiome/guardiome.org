@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kwat.org/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-08T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kwat.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-03-08T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kwat.org/posts/support_people_facing_covid-19/</loc>
+    <loc>/posts/support_people_facing_covid-19/</loc>
     <lastmod>2020-03-08T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kwat.org/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://kwat.org/kate/</loc>
+    <loc>/kate/</loc>
   </url>
   
   <url>
-    <loc>https://kwat.org/kwat/</loc>
+    <loc>/kwat/</loc>
   </url>
   
   <url>
-    <loc>https://kwat.org/story/</loc>
+    <loc>/story/</loc>
   </url>
   
   <url>
-    <loc>https://kwat.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>https://kwat.org/team/</loc>
+    <loc>/team/</loc>
   </url>
   
   <url>
-    <loc>https://kwat.org/work/</loc>
+    <loc>/work/</loc>
   </url>
   
 </urlset>
