@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://guardiome.org/posts/1/</loc>
+  </url>
+  
+  <url>
     <loc>https://guardiome.org/categories/</loc>
   </url>
   
@@ -12,6 +16,10 @@
   
   <url>
     <loc>https://guardiome.org/kate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/posts/</loc>
   </url>
   
   <url>
