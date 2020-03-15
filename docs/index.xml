@@ -23,7 +23,7 @@ We want to help people generate quality data and analyze it with the best softwa
     </item>
     
     <item>
-      <title>Kate</title>
+      <title></title>
       <link>https://guardiome.org/kate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,12 +65,7 @@ Silvio Gutkind</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://guardiome.org/work/</guid>
-      <description>We want to help kids with cancer. What happens when a child gets cancer?
-(Event 1 kid) e1k. A kid gets cancer.
-(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
-e2k. The kid gets the treatment.
-e2d. The doctor must monitor and adjust the treatment.
-The kid may not respond well to or tolerate the treatment, and not make it. When the kid makes it:</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
   </channel>

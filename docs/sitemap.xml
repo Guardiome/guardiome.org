@@ -28,11 +28,12 @@
   </url>
   
   <url>
-    <loc>https://guardiome.org/categories/</loc>
+    <loc>https://guardiome.org/kate/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://guardiome.org/kate/</loc>
+    <loc>https://guardiome.org/categories/</loc>
   </url>
   
   <url>
