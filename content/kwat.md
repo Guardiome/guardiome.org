@@ -1,6 +1,6 @@
 # Kwat Medetgul-Ernar
 
-I code, compute, and model various diseases, especially cancer.
+I code, compute, and model various diseases, especially cancers.
 
 ---
 
