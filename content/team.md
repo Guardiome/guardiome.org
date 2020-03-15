@@ -4,7 +4,7 @@
 
 [Kate Medetgul-Ernar]({{< relref "kate.md" >}})
 
-## Scientific Advisor
+## Scientific Advisors
 
 [Pablo Tamayo](https://scholar.google.com/citations?user=lLqTCtUAAAAJ)
 
