@@ -1,6 +1,4 @@
----
-title: "Team"
----
+# Team
 
 [Kwat Medetgul-Ernar](https://kwat.org)
 

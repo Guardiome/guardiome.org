@@ -4,27 +4,17 @@
   
   <url>
     <loc>https://guardiome.org/</loc>
-    <lastmod>2020-03-14T17:29:30-07:00</lastmod>
+    <lastmod>2020-03-08T04:02:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://guardiome.org/posts/guardiome.org_guardiome.com/</loc>
-    <lastmod>2020-03-14T17:29:30-07:00</lastmod>
+    <lastmod>2020-03-08T04:02:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://guardiome.org/posts/</loc>
-    <lastmod>2020-03-14T17:29:30-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/tags/</loc>
-    <lastmod>2020-03-14T17:29:30-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/tags/untagged/</loc>
-    <lastmod>2020-03-14T17:29:30-07:00</lastmod>
+    <lastmod>2020-03-08T04:02:01-07:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +23,13 @@
   </url>
   
   <url>
-    <loc>https://guardiome.org/projects/childhood_cancer/</loc>
+    <loc>https://guardiome.org/story/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/team/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -41,15 +37,15 @@
   </url>
   
   <url>
+    <loc>https://guardiome.org/projects/childhood_cancer/</loc>
+  </url>
+  
+  <url>
     <loc>https://guardiome.org/projects/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/story/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/team/</loc>
+    <loc>https://guardiome.org/tags/</loc>
   </url>
   
 </urlset>

@@ -1,3 +1,7 @@
+---
+title: "Childhood Cancer"
+---
+
 ## We want to help kids with cancer.
 
 What happens when a child gets cancer?

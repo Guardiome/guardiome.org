@@ -1,5 +1,3 @@
----
-title: "Story"
----
+# Story
 
 Coming soon...
