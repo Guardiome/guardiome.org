@@ -1,6 +1,6 @@
 ---
 title: "Guardiome.org + Guardiome.com"
-date: 2020-03-08T04:02:01-07:00
+date: 2020-02-04T08:16:32-07:00
 ---
 
 Guardiome.org makes software for analyzing health data.

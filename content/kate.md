@@ -1,6 +1,6 @@
 # Kate Medetgul-Ernar
 
-> I do hardcore genomics.
+I do hardcore genomics.
 
 ---
 

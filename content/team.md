@@ -1,6 +1,6 @@
 # Team
 
-[Kwat Medetgul-Ernar](https://kwat.org)
+[Kwat Medetgul-Ernar]({{< relref "kwat.md" >}})
 
 [Kate Medetgul-Ernar]({{< relref "kate.md" >}})
 
