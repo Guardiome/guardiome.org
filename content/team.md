@@ -4,10 +4,14 @@
 
 [Kate Medetgul-Ernar]({{< relref "kate.md" >}})
 
-## Supporters
-
-[Paul Graham](http://www.paulgraham.com)
+## Scientific Advisor
 
 [Pablo Tamayo](https://scholar.google.com/citations?user=lLqTCtUAAAAJ)
 
-[Silvio Gutkind](https://scholar.google.com/citations?user=GS9Nhz0AAAAJ)
+[Laura Niklason](https://en.wikipedia.org/wiki/Laura_Niklason)
+
+[Silvio Gutkind](https://medschool.ucsd.edu/research/moores/about/leadership/directors-office/Pages/Associate-Director,-Basic-Science.aspx)
+
+## Supporters
+
+[Paul Graham](<https://en.wikipedia.org/wiki/Paul_Graham_(programmer)>)

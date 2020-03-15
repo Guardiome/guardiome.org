@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Childhood Cancer</title>
+      <link>https://guardiome.org/projects/childhood_cancer/</link>
+      <pubDate>Sun, 08 Mar 2020 04:02:01 -0700</pubDate>
+      
+      <guid>https://guardiome.org/projects/childhood_cancer/</guid>
+      <description>We want to help kids with cancer. What happens when a child gets cancer?
+(Event 1 kid) e1k. A kid gets cancer.
+(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
+e2k. The kid gets the treatment.
+e2d. The doctor must monitor and adjust the treatment.
+The kid may not respond well to or tolerate the treatment, and not make it. When the kid makes it:</description>
+    </item>
+    
+    <item>
       <title>Guardiome.org &#43; Guardiome.com</title>
       <link>https://guardiome.org/posts/guardiome.org_guardiome.com/</link>
       <pubDate>Sun, 08 Mar 2020 04:02:01 -0700</pubDate>
@@ -54,23 +68,10 @@ We want to help people generate quality data and analyze it with the best softwa
       <guid>https://guardiome.org/team/</guid>
       <description>Team Kwat Medetgul-Ernar
 Kate Medetgul-Ernar
-Supporters Paul Graham
-Pablo Tamayo
-Silvio Gutkind</description>
-    </item>
-    
-    <item>
-      <title>Childhood Cancer</title>
-      <link>https://guardiome.org/projects/childhood_cancer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/projects/childhood_cancer/</guid>
-      <description>We want to help kids with cancer. What happens when a child gets cancer?
-(Event 1 kid) e1k. A kid gets cancer.
-(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
-e2k. The kid gets the treatment.
-e2d. The doctor must monitor and adjust the treatment.
-The kid may not respond well to or tolerate the treatment, and not make it. When the kid makes it:</description>
+Scientific Advisor Pablo Tamayo
+Laura Niklason
+Silvio Gutkind
+Supporters Paul Graham</description>
     </item>
     
   </channel>
