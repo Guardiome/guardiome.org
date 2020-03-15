@@ -8,8 +8,8 @@ tags:
   - untagged
 ---
 
-Guardiome.org makes software to analyze health data.
+Guardiome.org makes software for analyzing health data.
 
-Guardiome.com builds production line to generate health data.
+Guardiome.com sets up pipeline for generating health data.
 
-We want to help people generate data and plug it into our analytics.
+We want to help people generate quality data and analyze it with the best software.
