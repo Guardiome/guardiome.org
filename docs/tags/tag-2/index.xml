@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag 2 on Guardiome.org</title>
+    <link>https://guardiome.org/tags/tag-2/</link>
+    <description>Recent content in tag 2 on Guardiome.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 17:17:13 -0700</lastBuildDate>
+    
+	<atom:link href="https://guardiome.org/tags/tag-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://guardiome.org/posts/post_2/</link>
+      <pubDate>Sat, 14 Mar 2020 17:17:13 -0700</pubDate>
+      
+      <guid>https://guardiome.org/posts/post_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
