@@ -33,7 +33,15 @@
   </url>
   
   <url>
+    <loc>https://guardiome.org/projects/childhood_cancer/</loc>
+  </url>
+  
+  <url>
     <loc>https://guardiome.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/projects/</loc>
   </url>
   
   <url>
@@ -42,10 +50,6 @@
   
   <url>
     <loc>https://guardiome.org/team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/work/</loc>
   </url>
   
 </urlset>

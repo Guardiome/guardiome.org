@@ -47,14 +47,14 @@ disqusShortname = ""
     url = "/story"
 
 [[menu.main]]
-    identifier = "work"
-    name = "Work"
-    url = "/work"
-
-[[menu.main]]
-    identifier = "url"
+    identifier = "team"
     name = "Team"
     url = "/team"
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
 
 [[menu.main]]
     identifier = "posts"
@@ -62,9 +62,9 @@ disqusShortname = ""
     url = "/posts"
 
 [[params.social]]
-name = "github"
-url = "https://github.com/guardiome"
+    name = "github"
+    url = "https://github.com/guardiome"
 
 [[params.social]]
-name = "email"
-url = "mailto:kwat@guardiome.com"
+    name = "email"
+    url = "mailto:team@guardiome.org"
