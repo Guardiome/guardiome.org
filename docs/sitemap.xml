@@ -3,46 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/</loc>
-    <lastmod>2020-03-08T11:00:00+00:00</lastmod>
+    <loc>https://guardiome.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/posts/</loc>
-    <lastmod>2020-03-08T11:00:00+00:00</lastmod>
+    <loc>https://guardiome.org/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/posts/support_people_facing_covid-19/</loc>
-    <lastmod>2020-03-08T11:00:00+00:00</lastmod>
+    <loc>https://guardiome.org/kate/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/categories/</loc>
+    <loc>https://guardiome.org/story/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/kate/</loc>
+    <loc>https://guardiome.org/tags/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/kwat/</loc>
+    <loc>https://guardiome.org/team/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.github.io/guardiome.org/story/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.github.io/guardiome.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.github.io/guardiome.org/team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.github.io/guardiome.org/work/</loc>
+    <loc>https://guardiome.org/work/</loc>
   </url>
   
 </urlset>

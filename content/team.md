@@ -2,7 +2,7 @@
 title: "Team"
 ---
 
-[Kwat Medetgul-Ernar]({{< relref "kwat.md" >}})
+[Kwat Medetgul-Ernar](https://kwat.org)
 
 [Kate Medetgul-Ernar]({{< relref "kate.md" >}})
 
@@ -10,6 +10,6 @@ title: "Team"
 
 [Paul Graham](http://www.paulgraham.com)
 
-[Pablo Tamayo](https://scholar.google.com/citations?user=lLqTCtUAAAAJ&hl=en)
+[Pablo Tamayo](https://scholar.google.com/citations?user=lLqTCtUAAAAJ)
 
-[Silvio Gutkind](https://scholar.google.com/citations?user=GS9Nhz0AAAAJ&hl=en)
+[Silvio Gutkind](https://scholar.google.com/citations?user=GS9Nhz0AAAAJ)
