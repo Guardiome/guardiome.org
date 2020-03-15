@@ -6,18 +6,20 @@
     <description>Recent content on Guardiome.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 17:17:17 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 17:29:30 -0700</lastBuildDate>
     
 	<atom:link href="https://guardiome.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://guardiome.org/posts/test/</link>
-      <pubDate>Sat, 14 Mar 2020 17:17:17 -0700</pubDate>
+      <title>Guardiome.org &#43; Guardiome.com</title>
+      <link>https://guardiome.org/posts/guardiome.org_guardiome.com/</link>
+      <pubDate>Sat, 14 Mar 2020 17:29:30 -0700</pubDate>
       
-      <guid>https://guardiome.org/posts/test/</guid>
-      <description></description>
+      <guid>https://guardiome.org/posts/guardiome.org_guardiome.com/</guid>
+      <description>Guardiome.org makes software to analyze health data.
+Guardiome.com builds production line to generate health data.
+We want to help people generate data and plug it into our analytics.</description>
     </item>
     
     <item>
