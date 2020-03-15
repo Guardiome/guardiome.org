@@ -1,4 +1,4 @@
-# Kate Medetgul-Ernar
+# Katharine Medetgul-Ernar
 
 I do hardcore genomics.
 
