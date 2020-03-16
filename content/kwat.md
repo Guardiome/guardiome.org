@@ -16,7 +16,7 @@ Medicine
 
 ## Education
 
-##### 201109 - 201606
+##### 201109 - 201506
 
 BS, Bioinformatics & Bioengineering
 {{< color_text "#20d9ba" "@">}} University of California, San Diego
