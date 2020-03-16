@@ -82,11 +82,29 @@ Medicine
     
     <item>
       <title></title>
+      <link>https://guardiome.org/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guardiome.org/legal/</guid>
+      <description>Legal Text What type of corporation are we, how are we taxed, who has equity, whats our legal strategy.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guardiome.org/money/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guardiome.org/money/</guid>
+      <description>Money How will we fund ourselves, what are the sources of income, how much does each account for?</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://guardiome.org/story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://guardiome.org/story/</guid>
-      <description>Story Coming soon&amp;hellip;</description>
+      <description>Story Why we chose this to work on, how we got here.</description>
     </item>
     
     <item>
@@ -101,6 +119,39 @@ Scientific Advisors Pablo Tamayo
 Laura Niklason
 Silvio Gutkind
 Supporters Paul Graham</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guardiome.org/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guardiome.org/timeline/</guid>
+      <description>Timeline 201904 - 202003
+ Made Medulloblastoma model plus some predictions. Standardized cancer data being downloaded by people internationally. Model being used by people on tumor boards at UCSD, Rady Children&amp;rsquo;s Hospital, plus many graduate students and postdocs.  202003 - Present &amp;gt; Deploying medulloblastoma model on Guardiome.org.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guardiome.org/vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guardiome.org/vision/</guid>
+      <description>Vision One-Liner Health data analytics for childhood cancer patients and survivors.
+Long Term We make open-source analytics software. The software will help doctors take care of kids with cancer.
+ ptu together and organize and make it immediately comsumable: every available cancer data in the world. find everything, download, or standardize public cancer data. compile and standardize all forms of public cancer data.   integrate data horizontally ucsd ucla, china across institutiosn and vertically same samples diff type.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guardiome.org/yc_application_2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guardiome.org/yc_application_2020/</guid>
+      <description>Advice From YC   Be matter of fact &amp;gt; get to the point immediately about your idea, they read 100+ applications a day
+  Most important question &amp;gt; what is the most impressive thing the founder has accomplished.
+  Show deep insight about the position of your company in its industry
+  Bring up the most significant challenges your company will face &amp;gt; awareness of this is good</description>
     </item>
     
   </channel>

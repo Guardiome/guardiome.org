@@ -43,12 +43,37 @@
   </url>
   
   <url>
+    <loc>https://guardiome.org/legal/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/money/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://guardiome.org/story/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://guardiome.org/team/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/timeline/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/vision/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/yc_application_2020/</loc>
     <priority>0</priority>
   </url>
   
