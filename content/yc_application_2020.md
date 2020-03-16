@@ -18,8 +18,7 @@
 
 ## Organization name:
 
-GuardiomKzFamilyiub*1020
-i
+Guardiome
 
 ## Organization url, if any:
 
@@ -84,8 +83,8 @@ Yes.
 
 ~ 200 active users including:
 
-* Oncologists at UCSD and Rady Children's Hospital (20%)
-* Graduate students + Postdocs from around the world (80%)
+* Oncologists at UCSD and Rady Children's Hospital (10%)
+* Graduate students + Postdocs from around the world (90%)
 
 ## Do you have revenue?
 
