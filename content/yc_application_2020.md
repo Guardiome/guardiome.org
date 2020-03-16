@@ -68,23 +68,24 @@ Analytics
 
 ## How far along are you?
 
-Finished the medulloblastoma model and some predictions.
+Finished the medulloblastoma model + (XXX SPECIFIC TYPE OF PREDICTIONS) predictions.
 
 ## How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-1. ive been crunching dieases for 5 years. cancer analytics 100 a week since 2015.
+100hr/week since 2015 > crunching cancer analytics.
 
-2. this speciifc medullosblastoma project has taken 10 months.
+100hr/week since 201903 > making medulloblastoma model + predictions.
 
 ## Are people using your product? (yes or no)
 
+Yes.
+
 ## How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?
 
-people on tumor boards of ucsd, radys childrens hospital, and many graduate students and psotdocs.
+~ 200 active users including:
 
-data - im going to put on s3 amazon, used and downloaded by many people
-
-model - used by these people plus tumo baords for research purposes onyly.
+* Oncologists at UCSD and Rady Children's Hospital (20%)
+* Graduate students + Postdocs from around the world (80%)
 
 ## Do you have revenue?
 
