@@ -12,20 +12,6 @@
     
     
     <item>
-      <title>Childhood Cancer</title>
-      <link>https://guardiome.org/projects/childhood_cancer/</link>
-      <pubDate>Sun, 08 Mar 2020 04:02:01 -0700</pubDate>
-      
-      <guid>https://guardiome.org/projects/childhood_cancer/</guid>
-      <description>We want to help kids with cancer. What happens when a child gets cancer?
-(Event 1 kid) e1k. A kid gets cancer.
-(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
-e2k. The kid gets the treatment.
-e2d. The doctor must monitor and adjust the treatment.
-The kid may not respond well to or tolerate the treatment, and not make it. When the kid makes it:</description>
-    </item>
-    
-    <item>
       <title>Support people facing COVID-19</title>
       <link>https://guardiome.org/posts/support_people_facing_covid-19/</link>
       <pubDate>Sun, 08 Mar 2020 04:02:01 -0700</pubDate>
@@ -50,27 +36,16 @@ We want to help people generate quality data and analyze it with the best softwa
     
     <item>
       <title></title>
-      <link>https://guardiome.org/challenges/</link>
+      <link>https://guardiome.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guardiome.org/challenges/</guid>
-      <description>Challenges </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/competitors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/competitors/</guid>
-      <description>Competitors Cota
-Celcuity
-Flatiron Health
-Foundation Medicine
-MedWhat
-Predictive Oncology
-Proscia
-Tempus</description>
+      <guid>https://guardiome.org/about/</guid>
+      <description>About Problem Solution Timeline Story We want to help kids with cancer. What happens when a child gets cancer?
+(Event 1 kid) e1k. A kid gets cancer.
+(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
+e2k. The kid gets the treatment.
+e2d. The doctor must monitor and adjust the treatment.
+The kid may not respond well to or tolerate the treatment, and not make it.</description>
     </item>
     
     <item>
@@ -107,61 +82,6 @@ Medicine
     
     <item>
       <title></title>
-      <link>https://guardiome.org/legal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/legal/</guid>
-      <description>Legal Text Company Status Guardiome is a California LLC, incorporated on June 3rd 2015, taxed as an S-Corp.
-We are in the process of applying for 501(c) non-profit status.
-Owners Kwat Medetgul-Ernar ownes 100%.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/money/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/money/</guid>
-      <description>Money three soruces of income.
-  donations
-  grants (collaborate with scientists) help research with osftware analsytics, get two things 1) grant, 2) insights into how to makethings better.
-  pay per use of software, charge institutions to plug in their patients.
-  in the beginning &amp;gt; mostly donations and grants.
-later &amp;gt; scale software to global, goal of system is to include every patient and survivor.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/other/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/other/</guid>
-      <description>Other   predict how the stock price of biotech or pharmaceutical comapny would change based on events in the clinical trial.
-  electronic medical system for MARS.
-  Refridgerated trash bin divided into compost and regular. The trash can is the least pleasant place in the house, because it stinks and attracts bugs! Why are we living like this? This trash can is refrierated so it doesnt stink, its more sanitary.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/problem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/problem/</guid>
-      <description>Problems   There is a massive gap between publicly availble information about a cancer and the information that a clinician uses to make a treatment decision for a patient with that cancer. This gap results in unecessary death.
-  Cancer patients are islands &amp;ndash; most people around them can&amp;rsquo;t relate to the extremely unique challenges they face. So they suffer unecessarily due to a lack of knowledge about their situation, which guidence from experienced cancer survivors could easily solve.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/story/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/story/</guid>
-      <description>Story </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://guardiome.org/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -172,27 +92,6 @@ Scientific Advisors Pablo Tamayo
 Laura Niklason
 Silvio Gutkind
 Supporters Paul Graham</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/timeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/timeline/</guid>
-      <description>Timeline 201904 - 202003
- Made Medulloblastoma model plus some predictions. Its being used by people on tumor boards at UCSD, Rady Children&amp;rsquo;s Hospital, plus many graduate students and postdocs. Standardized cancer data. Its now being downloaded by people internationally.  202003 - Present
- Deploying medulloblastoma model on Guardiome.org.  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/vision/</guid>
-      <description>Vision One-Liner Description Health data analytics for childhood cancer patients and survivors.
-Short Description We want to build a cancer forecaster &amp;ndash; analytics that help doctors treat patients and that teach patients how to care for themselves better. For example, the cancer forecaster might tell a doctor that in 75% of small cell lung cancers, treatment X killed the cancer but resulted in relapse years later. The cancer forecaster for a patient might remind them that chemotherapy damages the tissue between your joints, so doing instensive exercise while on chemotherapy could cause permanent arthritis.</description>
     </item>
     
     <item>

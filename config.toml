@@ -40,11 +40,15 @@ disqusShortname = ""
       #path = "/img/your-example-logo.svg"
       #alt = "Your example logo alt text"
 
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
 
 [[menu.main]]
-    identifier = "story"
-    name = "Story"
-    url = "/story"
+    identifier = "projects"
+    name = "Projects"
+    url = "https://github.com/guardiome"
 
 [[menu.main]]
     identifier = "team"
@@ -52,18 +56,9 @@ disqusShortname = ""
     url = "/team"
 
 [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects"
-
-[[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
-
-[[params.social]]
-    name = "github"
-    url = "https://github.com/guardiome"
 
 [[params.social]]
     name = "email"
