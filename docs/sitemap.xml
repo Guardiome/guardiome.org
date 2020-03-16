@@ -33,6 +33,16 @@
   </url>
   
   <url>
+    <loc>https://guardiome.org/challenges/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/competitors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://guardiome.org/kate/</loc>
     <priority>0</priority>
   </url>
@@ -49,6 +59,16 @@
   
   <url>
     <loc>https://guardiome.org/money/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/other/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guardiome.org/problem/</loc>
     <priority>0</priority>
   </url>
   
