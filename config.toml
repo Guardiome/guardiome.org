@@ -27,12 +27,12 @@ disqusShortname = ""
 [languages]
   [languages.en]
     title = "Guardiome.org"
-    subtitle = "Non-profit health informatics company"
+    subtitle = "Non-profit health analytics company"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
-    homeSubtitle = "Non-profit health informatics company"
+    homeSubtitle = "We do analytics for childhood cancer patients and survivors."
 
     [languages.en.params.logo]
       logoText = "cd ~"
