@@ -1,12 +1,9 @@
-# Legal Text
+20150603 incorporation
 
-## Company Status
+California, LLC
 
-Guardiome is a California LLC, incorporated on June 3rd 2015, taxed as an S-Corp.
+S-Corp taxation
 
-We are in the process of applying for 501(c) non-profit status.
+501(c)3 (pending)
 
-## Owners
-
-Kwat Medetgul-Ernar ownes 100%.
-
+Kwat Medetgul-Ernar 100% equity
