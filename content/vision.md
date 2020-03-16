@@ -7,6 +7,30 @@ Health data analytics for childhood cancer patients and survivors.
 
 We want to build a cancer forecaster -- analytics that help doctors treat patients and that teach patients how to care for themselves better. For example, the cancer forecaster might tell a doctor that in 75% of small cell lung cancers, treatment X killed the cancer but resulted in relapse years later. The cancer forecaster for a patient might remind them that chemotherapy damages the tissue between your joints, so doing instensive exercise while on chemotherapy could cause permanent arthritis.
 
+## Novelty (what are we doing that nobody else is doing)
+
+there are many new things.
+
+theres never been an integrated dataset int he public. beigger than n = 25.
+
+theres never been a comprehensive disease map of these cancers, especially not one that is open to the public or even user-friendly. 
+
+commitment isnt for grants or money. incentive framework is new, create the best cancer forecaster for the next generation of children to use.
+
+## Why We Will Succeed While Others Fail
+
+other companies are tyring to make short term profit, think of cancer as a business, oppottunity to make profit. theyre either pretending to care about the disease or trying to work on a problem they never had.
+
+practical. other use doctor as consultant and adviros.
+
+here founder = md. i have 14 years of experience as a cancer patient astarting as a patient, someone who has experienced full spectrum of cancer therapy, someone whos been a survior living with consequences of treatment, cancer researcher analyzed more than 1000 cnacer genomes, helped tumor board, now in mdphd prgram at stanford workign on this. this is my disease, my career, and my passion. 
+
+to build the tool that patients and doctors will actually use to shape care and improve lives, you cant be a for profit company and you cant be in academia. you need to a a non-profit company driven by an MD cancer survivor.
+
+if your focused on for profit model, you cant collaborate and you priority by definition is profit not solving th patients/doctors problem. 
+
+if you are in academia, you are running on the grant hamster wheel, youre forced to "solve" many small scale problems, left with no time to focus on bigger more meaningful problems. 
+
 
 ## Execution
 
