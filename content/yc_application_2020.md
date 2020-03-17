@@ -44,9 +44,6 @@ Both at Stanford, CA.
 
 kwat@stanford.edu
 
-Phone number(s):
-3109903458
-
 # Founders
 
 ## Please provide the email addresses of the other cofounders in the organization. No need to add yours again.
@@ -94,13 +91,17 @@ No.
 
 Currently > 100% donations. 
 
-In 2 years > ~X% donations, ~X% collaborative research grants, ~X% 
+In 2 years > ~X% donations, ~X% collaborative research grants
 
-In 10 years > ~X% donations, ~X% enterprise cancer forecast software revenue
+In 10 years > ~X% donations, ~X% collaborative research grants, ~X% enterprise cancer forecast software revenue
 
 ## If you've applied previously with the same idea, how much progress have you made since the last time you applied? Anything change?
 
-Havent applied with same idea. APplied with private whoel genome sequencing idea in 2016 and made it to the interview. but kept pivoting, removed hardware, sfotware only, business is self-sustained.
+I have not applied with this idea.
+
+We applied in 2016 with a private whole genome sequencing + analysis idea and made it to the interview. We listened to YC feedback and pivoted from hardware to software only. Today the business is profitable. 
+
+
 
 ## If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
 
@@ -121,21 +122,19 @@ Cota, Celcuity, Flatiron Health, Foundation Medicine, MedWhat, Predictive Oncolo
 
 ## What do you understand about your space that other organizations just don't get?
 
+KWAT
 
 ## How do or will you make money? How much could you make?
 
 (We realize you can't know precisely, but give your best estimate.)
 three soruces of income.
 
-1. donations
+Currently > 100% donations. 
 
-2. grants (collaborate with scientists) help research with osftware analsytics, get two things 1) grant, 2) insights into how to makethings better.
+In 2 years > ~X% donations, ~X% collaborative research grants
 
-3. pay per use of software, charge institutions to plug in their patients.
+In 10 years > ~X% donations, ~X% collaborative research grants, ~X% enterprise cancer forecast software revenue
 
-in the beginning > mostly donations and grants.
-
-later > scale software to global, goal of system is to include every patient and survivor. charge many people a little bit. amazon of cancer analytics.
 
 annual > 500K-1million from grant/yr
 donation > 500K-1million donation
@@ -155,7 +154,7 @@ California LLC.
 
 ## If you're already incorporated, when were you? If you've had funding, how much and from whom?
 
-2015 (using different idea). No funding. THere are angel investors who want to give us money once we get 501c status, application in progress.
+2015 (using different idea). No funding. There are angel investors who want to give us money when we get 501c status, application in progress.
 
 ## Have you obtained your 501(c)(3) tax-exempt status yet?
 
@@ -197,7 +196,7 @@ No, I write all the code.
 
 * Doing a broad mix of things will make you better in your field of expertise.
 
-* most higher education is a excuse to procrastinate creating value.
+* Most higher education is a excuse to procrastinate creating value.
 
 # Curious
 
