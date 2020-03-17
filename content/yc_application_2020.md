@@ -26,7 +26,6 @@ https://guardiome.org
 
 ## If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.
 
-(Please don't password protect it; just use an obscure url.)
 
 ## Describe your organization in 50 characters or less.
 
@@ -126,8 +125,6 @@ KWAT
 
 ## How do or will you make money? How much could you make?
 
-(We realize you can't know precisely, but give your best estimate.)
-three soruces of income.
 
 Currently > 100% donations. 
 
@@ -137,7 +134,9 @@ In 10 years > ~X% donations, ~X% collaborative research grants, ~X% enterprise c
 
 
 annual > 500K-1million from grant/yr
+
 donation > 500K-1million donation
+
 2000/institution for software license x 1000 institutions in US + 1000 international institutions > 4 million
 
 ~10 million revenue from software alone.
