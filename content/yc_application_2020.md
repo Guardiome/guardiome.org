@@ -92,13 +92,11 @@ No.
 
 ## Do you generate direct program revenue or does it comes from donors? If both, what's the split?
 
-100 % donor only, getting feedback and making product better. later when product is really good, hope tumor board people can pay for access. then we'll use that money to improve the software. enterprise cancer forecasting software.
+Currently > 100% donations. 
 
-some funds can come from grants.
+In 2 years > ~X% donations, ~X% collaborative research grants, ~X% 
 
-by colaborating with bench scientists and translational scientists we cna get cut of the grants.
-
-3 sources of income: donor, grants, enterprise software access.
+In 10 years > ~X% donations, ~X% enterprise cancer forecast software revenue
 
 ## If you've applied previously with the same idea, how much progress have you made since the last time you applied? Anything change?
 
