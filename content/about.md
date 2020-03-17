@@ -2,7 +2,7 @@
 
 We make analytics software for childhood cancers.
 
-Our software will help doctors treat children with cancer and help the children engage in their health.
+Our software will help doctors treat children with cancer and help the children engage in their treatment.
 
 Our analytics assist the doctors: 1) characterize children's cancer; 2) prioritize their treatment; 3) predict their response; and 4) track their recovery.
 
