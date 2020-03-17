@@ -40,12 +40,11 @@ We want to help people generate quality data and analyze it with the best softwa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://guardiome.org/about/</guid>
-      <description>About Problem Solution Timeline Story We want to help kids with cancer. What happens when a child gets cancer?
-(Event 1 kid) e1k. A kid gets cancer.
-(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
-e2k. The kid gets the treatment.
-e2d. The doctor must monitor and adjust the treatment.
-The kid may not respond well to or tolerate the treatment, and not make it.</description>
+      <description>About We make analytics software for childhood cancers.
+These analytics help doctors treat kids with cancer and help the kids engage in their treatment.
+Our software will the help doctors: 1) characterize cancer; 2) prioritize treatment; 3) predict response; and 4) track recovery.
+Our software will help the kids: 1) understand their disease; 2) learn about their treatment; 3) take their medications; and 4) forecast their health.
+We commit our life to crafting the smartest childhood cancer analytics.</description>
     </item>
     
     <item>
@@ -92,15 +91,6 @@ Scientific Advisors Pablo Tamayo
 Laura Niklason
 Silvio Gutkind
 Supporters Paul Graham</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/yc_application_2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/yc_application_2020/</guid>
-      <description>Advice From YC  Be matter of fact &amp;gt; get to the point immediately about your idea, they read 100+ applications a day Most important question &amp;gt; what is the most impressive thing the founder has accomplished. Show deep insight about the position of your company in its industry Bring up the most significant challenges your company will face &amp;gt; awareness of this is good Have good alternate ideas &amp;gt; yc goes there if they like you but not your idea  Writing Notes  Start with a structure, remain consistent Make logical flow of information Use context to remove redundancy Replace adjectives with numbers Do many iterations  Organization Organization name: Guardiome</description>
     </item>
     
   </channel>
