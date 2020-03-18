@@ -15,4 +15,4 @@ This directory is a vital investment, because we will continuously develop this 
 
 If you are a medical student and want to help, contact us.
 
-If you want to support this project, plese donate.
+If you want to support this project, please donate.
