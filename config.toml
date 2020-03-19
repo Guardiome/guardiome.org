@@ -6,7 +6,7 @@ publishDir = "docs"
 googleAnalytics = "UA-107909561-3"
 disqusShortname = ""
 [author]
-  name = "Guardiome.org"
+  name = "Guardiome"
 
 [params]
   dateform = "Jan 2, 2006"
@@ -26,8 +26,8 @@ disqusShortname = ""
 
 [languages]
   [languages.en]
-    title = "Guardiome.org"
-    subtitle = "Non-profit health analytics company"
+    title = "Guardiome"
+    subtitle = "Non-profit health analytics"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"

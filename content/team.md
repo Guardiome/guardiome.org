@@ -1,8 +1,14 @@
 # Team
 
+---
+
+## Members
+
 [Kwat Medetgul-Ernar]({{< relref "kwat.md" >}})
 
 [Kate Medetgul-Ernar]({{< relref "kate.md" >}})
+
+---
 
 ## Scientific Advisors
 
@@ -11,6 +17,8 @@
 [Laura Niklason](https://en.wikipedia.org/wiki/Laura_Niklason)
 
 [Silvio Gutkind](https://medschool.ucsd.edu/research/moores/about/leadership/directors-office/Pages/Associate-Director,-Basic-Science.aspx)
+
+---
 
 ## Supporters
 

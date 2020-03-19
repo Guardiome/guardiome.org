@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guardiome.org</title>
+    <title>Guardiome</title>
     <link>https://guardiome.org/</link>
-    <description>Recent content on Guardiome.org</description>
+    <description>Recent content on Guardiome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Mar 2020 14:31:32 -0700</lastBuildDate>
@@ -37,23 +37,12 @@ We are NOT healthcare providers. But we are healthy, with technology, and going 
     </item>
     
     <item>
-      <title>Guardiome.org &#43; Guardiome.com</title>
-      <link>https://guardiome.org/posts/guardiome.org_guardiome.com/</link>
-      <pubDate>Tue, 04 Feb 2020 08:16:32 -0700</pubDate>
-      
-      <guid>https://guardiome.org/posts/guardiome.org_guardiome.com/</guid>
-      <description>Guardiome.org makes software for analyzing health data.
-Guardiome.com sets up pipeline for generating health data.
-We want to help people generate quality data and analyze it with the best software.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://guardiome.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://guardiome.org/about/</guid>
-      <description>About We make analytics software for childhood cancers.
+      <description>About  Mission We make analytics software for childhood cancers.
 Our software will help doctors treat children with cancer and help the children engage in their treatment.
 Our analytics assist the doctors: 1) characterize children&amp;rsquo;s cancer; 2) prioritize their treatment; 3) predict their response; and 4) track their recovery.
 Our anaytics support the children: 1) understand their disease; 2) learn about their treatment; 3) take their medications; 4) forecast their health; and 5) cope with their lives after the treatment.</description>
@@ -97,12 +86,12 @@ Medicine
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://guardiome.org/team/</guid>
-      <description>Team Kwat Medetgul-Ernar
+      <description>Team  Members Kwat Medetgul-Ernar
 Kate Medetgul-Ernar
-Scientific Advisors Pablo Tamayo
+ Scientific Advisors Pablo Tamayo
 Laura Niklason
 Silvio Gutkind
-Supporters Paul Graham</description>
+ Supporters Paul Graham</description>
     </item>
     
   </channel>

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Guardiome.org</title>
+        <title>Posts on Guardiome</title>
         <link>https://guardiome.org/posts/</link>
-        <description>Recent content in Posts on Guardiome.org</description>
+        <description>Recent content in Posts on Guardiome</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 18 Mar 2020 14:31:32 -0700</lastBuildDate>
@@ -53,21 +53,6 @@ We are NOT healthcare providers. But we are healthy, with technology, and going 
 <p><em>Just let us know how we can help you.</em></p>
 <p>Kwat <span style="color:#20d9ba">@</span> +13477561857</p>
 <p>Kate <span style="color:#20d9ba">@</span> +13477561857</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Guardiome.org &#43; Guardiome.com</title>
-            <link>https://guardiome.org/posts/guardiome.org_guardiome.com/</link>
-            <pubDate>Tue, 04 Feb 2020 08:16:32 -0700</pubDate>
-            
-            <guid>https://guardiome.org/posts/guardiome.org_guardiome.com/</guid>
-            <description>Guardiome.org makes software for analyzing health data.
-Guardiome.com sets up pipeline for generating health data.
-We want to help people generate quality data and analyze it with the best software.</description>
-            <content type="html"><![CDATA[<p>Guardiome.org makes software for analyzing health data.</p>
-<p>Guardiome.com sets up pipeline for generating health data.</p>
-<p>We want to help people generate quality data and analyze it with the best software.</p>
 ]]></content>
         </item>
         
