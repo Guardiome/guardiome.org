@@ -97,13 +97,25 @@ Kobe Bryant
 
 ---
 
-## Stuff
+## Code
 
 https://github.com/kwatme
 
+---
+
+## Publication
+
 https://scholar.google.com/citations?user=PAM4lScAAAAJ
 
+---
+
+## Video
+
 https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A
+
+---
+
+## Contact
 
 https://twitter.com/kwatme
 

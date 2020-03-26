@@ -13,6 +13,6 @@ We will call them periodically, ask about their status, link them with resources
 
 This directory is a vital investment, because we will continuously develop this directory for future disasters and build the national guard for children with cancer.
 
-If you are a medical student and want to help, contact us.
+If you are a medical student and want to help, please contact us.
 
 If you want to support this project, please donate.
