@@ -23,20 +23,23 @@ BS, Biochemistry
 
 ##### 201405 - 201410
 
-Kristina Bostrom Lab
+Wet lab Biologist
+{{< color_text "#9017e6" "@">}} Kristina Bostrom Lab
 {{< color_text "#9017e6" "@">}} UCLA Cardiology
 
 ##### 201309 - 201605
 
-Trey Ideker Lab
+Researcher
+{{< color_text "#9017e6" "@">}} Trey Ideker Lab
 {{< color_text "#9017e6" "@">}} UCSD Medicine
 
 ##### 201506 - Present
 
-Cofounder
+Developer
 {{< color_text "#9017e6" "@">}} Guardiome
 
 ##### 201605 - Present
 
-Computational Cancer Analysis Laboratory
+Data Analyst
+{{< color_text "#9017e6" "@">}} Computational Cancer Analysis Lab
 {{< color_text "#9017e6" "@">}} UCSD Moores Cancer Center
