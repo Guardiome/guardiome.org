@@ -65,14 +65,22 @@ Cota, Celcuity, Flatiron Health, Foundation Medicine, MedWhat, Predictive Oncolo
 ### What do you understand about your space that other organizations just don't get?
 Making this works takes life time commitment to the project
 
-### How will you make money? How much could you make?
-We offer enterprise software service for oncologist, clinics, and hospitals for $2000 per month.
+
+<hr>
+
+## Money
+
+Now: 100% donations 
+
+Later: 20% donations + 40% collaborative research grants + 40% enterprise software service
+
+We will offer enterprise software service for oncologists, clinics, and hospitals for $2000 per month.
 
 <hr>
 
 ## Progress
 
-### Which of the following best describes your progress?
+### Status?
 Public Beta
 
 ### How far along are you?
@@ -88,33 +96,33 @@ Integrating all this data, we are modeling each major childhood cancer (blood, c
 Kwat has been crunching numbers for various cancers since 2013. Kwat spent 3 years compiling and connecting cancer data. Kwat has been focussed on this project since 2018.
 
 
-### How many active users or customers do you have?
+### Active Users?
 
 Oncologists at the UCSD Moores Cancer Center and at the Rady Children's hospital have been using the cancer models to characterize their patients since 2016. Researchers are using our data and models for their projects.
-
-### Do you generate direct program revenue or does it comes from donors? If both, what's the split?
-
-Now: 100% donations 
-Later: 20% donations + 40% collaborative research grants + 40% enterprise software service
 
 <hr>
 
 ## Formation + Legal
 
-### If you've had funding, how much and from whom?
-We are 100% family owned and have not raised money.
+2015 California LLC
+
+Applying for 501c non-profit status
+
+100% family owned, no money raised
 
 <hr>
 
 ## Other
 
-### Any other ideas you considered applying with?
+### Other ideas?
 
 Electronic medical system for outspace. More and more people are going to outerspace. There they will encounter unique helath challenges. This platform will help them maintain their health by taking into account their unique circumstances.
+
 App to quickly prove that youre STD free.
+
 Kids books, on graduate level subjects, for adults. Adutls reading them get a high level understanding of concepts in their field while having story time with their kids.
 
-### Something surprising or amusing that one of you has discovered?
+### Something surprising or amusing you have discovered?
 
 Most higher education is an excuse to procrastinate creating value.
 
