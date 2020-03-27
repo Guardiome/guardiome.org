@@ -57,7 +57,7 @@ Data Analyst {{< color_text "#20d9ba" "@">}} Trey Ideker Lab
 
 ##### 201506 - Present
 
-Cofounder and All Positions
+Founder and All Positions
 {{< color_text "#20d9ba" "@">}} Guardiome
 
 ##### 201510 - Present
