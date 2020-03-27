@@ -32,7 +32,7 @@ disqusShortname = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
-    homeSubtitle = "We do health analytics for childhood cancer patients and survivors."
+    homeSubtitle = "Health analytics for childhood cancer patients and survivors."
 
     [languages.en.params.logo]
       logoText = "cd ~"
