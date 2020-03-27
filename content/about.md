@@ -29,5 +29,3 @@ Our analytics help children
 Guardiome.org makes software for analyzing health data.
 
 Guardiome.com sets up pipeline for generating health data.
-
-We help people generate quality data and analyze it with the best software.
