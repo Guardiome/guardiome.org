@@ -67,6 +67,24 @@ Senior Statistician {{< color_text "#20d9ba" "@">}} Computational Cancer Analysi
 
 ---
 
+## Code
+
+https://github.com/KwatME
+
+---
+
+## Publication
+
+https://scholar.google.com/citations?user=PAM4lScAAAAJ
+
+---
+
+## Video
+
+https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A
+
+---
+
 ## Influencer
 
 Claude Shannon
@@ -94,21 +112,3 @@ John Paul Shen
 Suzuki Ichiro
 
 Kobe Bryant
-
----
-
-## Code
-
-https://github.com/KwatME
-
----
-
-## Publication
-
-https://scholar.google.com/citations?user=PAM4lScAAAAJ
-
----
-
-## Video
-
-https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A
