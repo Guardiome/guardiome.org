@@ -34,7 +34,7 @@ PhD, Biophysics {{< color_text "#20d9ba" "@">}} Stanford University
 
 ##### 201006 - 201109 and 201406 - 201409
 
-Bioinformatician {{< color_text "#20d9ba" "@">}} Kristina Bostrom Lab {{< color_text "#9017e6" "@">}} UCLA Cardiology
+Bioinformatician {{< color_text "#20d9ba" "@">}} Kristina Bostrom Lab {{< color_text "#20d9ba" "@">}} UCLA Cardiology
 
 ##### 201305 - 201309
 
@@ -46,7 +46,7 @@ Computational Biologist {{< color_text "#20d9ba" "@">}} Shankar Subramaniam Lab 
 
 ##### 201309 - 201605
 
-Computational Biologist {{< color_text "#20d9ba" "@">}} Trey Ideker Lab {{< color_text "#9017e6" "@">}} UCSD Medicine
+Computational Biologist {{< color_text "#20d9ba" "@">}} Trey Ideker Lab {{< color_text "#20d9ba" "@">}} UCSD Medicine
 
 ##### 201506 - Present
 
