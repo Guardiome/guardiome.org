@@ -18,52 +18,43 @@ Medicine
 
 ##### 201109 - 201506
 
-BS, Bioinformatics & Bioengineering
-{{< color_text "#20d9ba" "@">}} University of California, San Diego
+BS, Bioinformatics & Bioengineering {{< color_text "#20d9ba" "@">}} UC San Diego
 
 ##### 201908 - Present
 
-MD, Medicine
-{{< color_text "#20d9ba" "@">}} Stanford University
+MD, Medicine {{< color_text "#20d9ba" "@">}} Stanford University
 
 ##### 202108 - Present
 
-PhD, Biophysics
-{{< color_text "#20d9ba" "@">}} Stanford University
+PhD, Biophysics {{< color_text "#20d9ba" "@">}} Stanford University
 
 ---
 
 ## Work
 
-##### 201006 - 201109 & 201406 - 201409
+##### 201006 - 201109 and 201406 - 201409
 
-Computational Biologist {{< color_text "#20d9ba" "@">}} Kristina Bostrom Lab
-{{< color_text "#20d9ba" "@">}} UCLA Cardiology
+Bioinformatician {{< color_text "#20d9ba" "@">}} Kristina Bostrom Lab {{< color_text "#9017e6" "@">}} UCLA Cardiology
 
 ##### 201305 - 201309
 
-Bioinformatician {{< color_text "#20d9ba" "@">}} Stuart Lipton Lab
-{{< color_text "#20d9ba" "@">}} Sanford Burnham Prebys Medical Discovery Institute
+Bioinformatician {{< color_text "#20d9ba" "@">}} Stuart Lipton Lab {{< color_text "#20d9ba" "@">}} Sanford Burnham Prebys Medical Discovery Institute
 
 ##### 201306 - 201310
 
-Data Analyst {{< color_text "#20d9ba" "@">}} Shankar Subramaniam Lab
-{{< color_text "#20d9ba" "@">}} UCSD Bioengineering
+Computational Biologist {{< color_text "#20d9ba" "@">}} Shankar Subramaniam Lab {{< color_text "#20d9ba" "@">}} UCSD Bioengineering
 
 ##### 201309 - 201605
 
-Data Analyst {{< color_text "#20d9ba" "@">}} Trey Ideker Lab
-{{< color_text "#20d9ba" "@">}} UCSD Medicine
+Computational Biologist {{< color_text "#20d9ba" "@">}} Trey Ideker Lab {{< color_text "#9017e6" "@">}} UCSD Medicine
 
 ##### 201506 - Present
 
-Founder and All Positions
-{{< color_text "#20d9ba" "@">}} Guardiome
+Cofounder and All Positions {{< color_text "#20d9ba" "@">}} Guardiome
 
 ##### 201510 - Present
 
-Senior Statistician {{< color_text "#20d9ba" "@">}} Computational Cancer Analysis Lab
-{{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
+Data Analyst {{< color_text "#20d9ba" "@">}} Computational Cancer Analysis Lab {{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
 
 ---
 
