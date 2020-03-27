@@ -37,32 +37,32 @@ PhD, Biophysics
 
 ##### 201006 - 201109 & 201406 - 201409
 
-Kristina Bostrom Lab
+Computational Biologist {{< color_text "#20d9ba" "@">}} Kristina Bostrom Lab
 {{< color_text "#20d9ba" "@">}} UCLA Cardiology
 
 ##### 201305 - 201309
 
-Stuart Lipton Lab
+Bioinformatician {{< color_text "#20d9ba" "@">}} Stuart Lipton Lab
 {{< color_text "#20d9ba" "@">}} Sanford Burnham Prebys Medical Discovery Institute
 
 ##### 201306 - 201310
 
-Subramaniam Shankar Lab
+Data Analyst {{< color_text "#20d9ba" "@">}} Shankar Subramaniam Lab
 {{< color_text "#20d9ba" "@">}} UCSD Bioengineering
 
 ##### 201309 - 201605
 
-Trey Ideker Lab
+Data Analyst {{< color_text "#20d9ba" "@">}} Trey Ideker Lab
 {{< color_text "#20d9ba" "@">}} UCSD Medicine
 
 ##### 201506 - Present
 
-Cofounder
+Cofounder and All Positions
 {{< color_text "#20d9ba" "@">}} Guardiome
 
 ##### 201510 - Present
 
-Computational Cancer Analysis Laboratory
+Senior Statistician {{< color_text "#20d9ba" "@">}} Computational Cancer Analysis Lab
 {{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
 
 ---
