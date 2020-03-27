@@ -23,7 +23,7 @@ BS, Biochemistry
 
 ##### 201405 - 201410
 
-Wet lab Biologist
+Wet Lab Biologist
 {{< color_text "#9017e6" "@">}} Kristina Bostrom Lab
 {{< color_text "#9017e6" "@">}} UCLA Cardiology
 
