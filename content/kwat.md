@@ -1,6 +1,8 @@
 # Kwat Medetgul-Ernar
 
-I code, compute, and model various diseases, especially cancers.
+---
+
+I code, compute, and model diseases -- especially cancers.
 
 ---
 
@@ -60,19 +62,19 @@ Data Analyst {{< color_text "#20d9ba" "@">}} Computational Cancer Analysis Lab {
 
 ## Code
 
-https://github.com/KwatME
+[https://github.com/KwatME](https://github.com/KwatME)
 
 ---
 
 ## Publication
 
-https://scholar.google.com/citations?user=PAM4lScAAAAJ
+[https://scholar.google.com/citations?user=PAM4lScAAAAJ](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
 
 ---
 
 ## Video
 
-https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A
+[https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A](https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A)
 
 ---
 

@@ -44,21 +44,25 @@ disqusShortname = ""
     identifier = "about"
     name = "About"
     url = "/about"
+    weight = "1"
 
 [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "https://github.com/guardiome"
+    weight = "2"
 
 [[menu.main]]
     identifier = "team"
     name = "Team"
     url = "/team"
+    weight = "3"
 
 [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
+    weight = "4"
 
 [[params.social]]
     name = "email"
