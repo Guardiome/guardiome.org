@@ -11,7 +11,9 @@ We will call them periodically, ask about their status, link them with resources
 
 {{< raw_html >}}
 
-<a target="_blank" href="https://helpwithcovid.com/projects/115" class="button">Volunteer (@ Help with COVID)</a>
+<div class="button-container">
+    <a target="_blank" href="https://helpwithcovid.com/projects/115" class="button">Volunteer (@ Help with COVID)</a>
+</div>
 
 {{< /raw_html >}}
 
@@ -31,7 +33,9 @@ We will call them periodically, ask about their status, link them with resources
 
 {{< raw_html >}}
 
-<a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest (@ WeFunder)</a>
+<div class="button-container">
+    <a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest (@ WeFunder)</a>
+</div>
 
 {{< /raw_html >}}
 

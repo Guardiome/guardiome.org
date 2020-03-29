@@ -17,13 +17,15 @@
             <description>Children going through cancer treatment have no immune system. They can quickly die from COVID-19. We urgently need to protect them.
 In this project, we will put together their contact information in a directory and assign medical students to check on them.
 We will call them periodically, ask about their status, link them with resources, order them food, deliver them stuff, and do whatever we can.
-Volunteer (@ Help with COVID) Reasons to Invest   There is no COVID-19 support group targeting childhood cancer patients.</description>
+Volunteer (@ Help with COVID)  Reasons to Invest   There is no COVID-19 support group targeting childhood cancer patients.</description>
             <content type="html"><![CDATA[<p>Children going through cancer treatment have no immune system. They can quickly die from COVID-19. We urgently need to protect them.</p>
 <p>In this project, we will put together their contact information in a directory and assign medical students to check on them.</p>
 <p>We will call them periodically, ask about their status, link them with resources, order them food, deliver them stuff, and do whatever we can.</p>
 
 
-<a target="_blank" href="https://helpwithcovid.com/projects/115" class="button">Volunteer (@ Help with COVID)</a>
+<div class="button-container">
+    <a target="_blank" href="https://helpwithcovid.com/projects/115" class="button">Volunteer (@ Help with COVID)</a>
+</div>
 
 
 <h3 id="reasons-to-invest">Reasons to Invest</h3>
@@ -49,7 +51,9 @@ Volunteer (@ Help with COVID) Reasons to Invest   There is no COVID-19 support g
 </ul>
 
 
-<a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest (@ WeFunder)</a>
+<div class="button-container">
+    <a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest (@ WeFunder)</a>
+</div>
 
 
 <h3 id="motivation">Motivation</h3>
@@ -89,7 +93,7 @@ We are NOT healthcare providers. But we are healthy, with technology, and going 
 <li>Ship you things</li>
 </ul>
 <p><em>Just let us know how we can help you.</em></p>
-<p>Kwat <span style="color:#20d9ba">@</span> +13477561857</p>
+<p>Kwat <span style="color:#20d9ba">@</span> +13109903458</p>
 <p>Kate <span style="color:#20d9ba">@</span> +13477561857</p>
 ]]></content>
         </item>
