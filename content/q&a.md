@@ -18,32 +18,7 @@ That year, I took 6 classes per quarter with a grade point average of 3.9. I spe
 
 This living system (probably illegal) was a successful hack. I strengthened my academics, skills, health, and mind. And I carried some of my parents' financial burden.
 
-
-### Schools, Degrees, and Years of Graduation?
-
-Stanford, Medicine, MD, 2019 - 2023
-
-Stanford, Biophysics, PhD, 2019 - 2023
-
-UCSD, Bioengineering and Bioinformatics, BS, 2011 - 2015
-
-### Employers, Positions / Titles and Dates?
-
-Computational Cancer Analysis Laboratory @ UCSD Moores Cancer Center, Senior Statistician, 201510 - Present
-
-Guardiome, Cofounder and All Positions, 201506 - Present
-
-Trey Ideker Laboratory @ UCSD School of Medicine, Data Analyst, 201309 - 201605
-
-Kristina Bostrom Laboratory @ UCLA Cardiology, Computational Biologist, 201406 - 201409
-
-Subramaniam Shankar Laboratory @ UCSD School of Engineering, Data Analyst, 201306 - 201310
-
-Stuart Lipton Laboratory @ Sanford Burnham Prebys Medical Discovery Institute, Bioinformatician, 201305 - 201309
-
-Kristina Bostrom Laboratory @ UCLA Cardiology, Computational Biologist, 201006 - 201109
-
-### Do you have any commitments in the future and if so what?
+### Future commitments?
 
 Finishing graduate school. I am not afraid to take a perpetual leave of absence from Stanford.
 

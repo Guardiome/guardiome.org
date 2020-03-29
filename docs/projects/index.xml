@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Guardiome.org</title>
+    <title>Projects on Guardiome</title>
     <link>https://guardiome.org/projects/</link>
-    <description>Recent content in Projects on Guardiome.org</description>
+    <description>Recent content in Projects on Guardiome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 04:02:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 14:31:32 -0700</lastBuildDate>
     
 	<atom:link href="https://guardiome.org/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Childhood Cancer</title>
-      <link>https://guardiome.org/projects/childhood_cancer/</link>
+      <title>Childhood Cancer Directory (for COVID-19) Pitch</title>
+      <link>https://guardiome.org/projects/childhood_cancer_directory/</link>
+      <pubDate>Wed, 18 Mar 2020 14:31:32 -0700</pubDate>
+      
+      <guid>https://guardiome.org/projects/childhood_cancer_directory/</guid>
+      <description>Children going through cancer treatment have no immune system. They can quickly die from COVID-19. We urgently need to protect them.
+In this project, we will put together their contact information in a directory and assign medical students to check on them.
+We will call them periodically, ask about their status, link them with resources, order them food, deliver them stuff, and do whatever we can.
+Volunteer (@ Help with COVID)  Reasons to Invest   There is no COVID-19 support group targeting childhood cancer patients.</description>
+    </item>
+    
+    <item>
+      <title>Support people facing COVID-19</title>
+      <link>https://guardiome.org/projects/support_people_facing_covid-19/</link>
       <pubDate>Sun, 08 Mar 2020 04:02:01 -0700</pubDate>
       
-      <guid>https://guardiome.org/projects/childhood_cancer/</guid>
-      <description>We want to help kids with cancer. What happens when a child gets cancer?
-(Event 1 kid) e1k. A kid gets cancer.
-(Event 1 doctor) e1d. The kid&amp;rsquo;s doctor must characterize the cancer to plan treatment.
-e2k. The kid gets the treatment.
-e2d. The doctor must monitor and adjust the treatment.
-The kid may not respond well to or tolerate the treatment, and not make it. When the kid makes it:</description>
+      <guid>https://guardiome.org/projects/support_people_facing_covid-19/</guid>
+      <description>If you are experiencing medical emergency, call 911.
+If you need someone to talk to, you can call me or Kate. We are here for you.
+We are NOT healthcare providers. But we are healthy, with technology, and going to try to help you:
+ Take your call, facetime, and text ~24/7 Answer your questions Link you with your local support system Connect you with a healthy person nearby Order you food Ship you things  Just let us know how we can help you.</description>
     </item>
     
   </channel>
