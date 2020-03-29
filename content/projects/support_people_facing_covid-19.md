@@ -1,6 +1,6 @@
 ---
 title: "Support people facing COVID-19"
-date: 2020-03-08T04:02:01-07:00
+date: 2020-03-29T04:02:01-07:00
 ---
 
 If you are experiencing medical emergency, call **911**.
@@ -20,4 +20,4 @@ _Just let us know how we can help you._
 
 Kwat {{< color_text "#20d9ba" "@" >}} +13109903458
 
-Kate {{< color_text "#20d9ba" "@" >}} +13477561857
+Kate {{< color_text "#9017e6" "@" >}} +13477561857

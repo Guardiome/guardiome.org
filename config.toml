@@ -61,3 +61,7 @@ disqusShortname = ""
 [[params.social]]
     name = "email"
     url = "mailto:team@guardiome.org"
+
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/guardiome"

@@ -1,6 +1,6 @@
 ---
 title: "Childhood Cancer Directory (for COVID-19) Pitch"
-date: 2020-03-18T14:31:32-07:00
+date: 2020-03-29T14:31:32-07:00
 ---
 
 Children going through cancer treatment have no immune system. They can quickly die from COVID-19. We urgently need to protect them.
@@ -31,13 +31,6 @@ We will call them periodically, ask about their status, link them with resources
 
 * [SARS-CoV-2 Transmission in Patients With Cancer at a Tertiary Care Hospital in Wuhan, China](https://jamanetwork.com/journals/jamaoncology/fullarticle/2763673)
 
-{{< raw_html >}}
-
-<div class="button-container">
-    <a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest (@ WeFunder)</a>
-</div>
-
-{{< /raw_html >}}
 
 ### Motivation
 

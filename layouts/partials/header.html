@@ -3,11 +3,10 @@
         {{ partial "logo.html" . }}
 
         <span class="header__right">
+        
             {{ if len .Site.Menus }}
                 {{ partial "menu.html" . }}
             {{ end }}
-
-        <span> <a target="_blank" href="https://github.com/guardiome"><img style="width: 24px;" src="/github_logo.svg"></a></span>
 
         </span>
     </span>
