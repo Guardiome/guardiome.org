@@ -13,8 +13,6 @@ We will call them periodically, ask about their status, link them with resources
 
 <a target="_blank" href="https://helpwithcovid.com/projects/115" class="button">Volunteer</a>
 
-<a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest</a>
-
 {{< /raw_html >}}
 
 ### Reasons to Invest
@@ -30,6 +28,12 @@ We will call them periodically, ask about their status, link them with resources
 * This directory is a vital investment because it will become the national guard equivalent for kids with cancer.
 
 * [SARS-CoV-2 Transmission in Patients With Cancer at a Tertiary Care Hospital in Wuhan, China](https://jamanetwork.com/journals/jamaoncology/fullarticle/2763673)
+
+{{< raw_html >}}
+
+<a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest</a>
+
+{{< /raw_html >}}
 
 ### Motivation
 
