@@ -6,6 +6,12 @@ I code, compute, and model diseases -- especially cancers.
 
 ---
 
+## Background
+
+Poor nomad in Kazakhstan &rarr; China &rarr; Japan &rarr; FIBA U16 Olympian &rarr; USA &rarr; Leukemia &rarr; Survive &rarr; Homeless &rarr; Startup &rarr; Stanford MD-PhD student (&rarr; Pediatric oncologist &rarr; End childhood cancer worldwide by 2040)
+
+---
+
 ## Craft
 
 Computational Mathematics

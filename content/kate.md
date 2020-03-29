@@ -6,6 +6,12 @@ I do hardcore genomics.
 
 ---
 
+## Background
+
+Farm in North Carolina &rarr; NYC &rarr; Professional Ballet Dancer &rarr; UCSD &rarr; Biologist &rarr; Data Analyst &rarr; Mother &rarr; Startup
+
+---
+
 ## Craft
 
 Genomics
