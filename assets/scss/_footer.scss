@@ -4,10 +4,6 @@
   flex-grow: 0;
   color: $light-color-secondary;
 
-  .dark-theme & {
-    background: #fff;
-  }
-
   &__inner {
     display: flex;
     align-items: center;
