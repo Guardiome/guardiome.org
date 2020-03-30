@@ -88,9 +88,5 @@ a.button {
     cursor: pointer;
     outline: none;
 
-    .dark-theme & {
-      background: $dark-background-secondary;
-      color: inherit;
-    }
   }
 }
