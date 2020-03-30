@@ -12,11 +12,6 @@ Our analytics help children, understand their disease, learn about their treatme
 
 ---
 
-## Guardiome.org and Guardiome.com
-
-Guardiome.org makes software for analyzing health data.
-
-Guardiome.com sets up pipeline for generating health data.
 
 ---
 
