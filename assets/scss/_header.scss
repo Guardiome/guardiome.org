@@ -6,10 +6,6 @@
   position: relative;
   padding: 20px;
 
-  .dark-theme & {
-    background: #252627;
-  }
-
   &__right {
     display: flex;
     flex-direction: row;

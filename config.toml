@@ -8,6 +8,8 @@ disqusShortname = ""
 [author]
   name = "Guardiome"
 
+defaultTheme = "light"
+
 [params]
   dateform = "Jan 2, 2006"
   dateformShort = "Jan 2"
@@ -22,9 +24,7 @@ disqusShortname = ""
 
 [permalinks]
   posts = "/projects/:year/:month/:title/"
-  contentTypeName = "projects"
-
-defaultTheme = "light"
+  contentTypeName = "posts"
 
 [languages]
   [languages.en]
@@ -49,9 +49,9 @@ defaultTheme = "light"
     weight = "1"
 
 [[menu.main]]
-    identifier = "projects"
+    identifier = "posts"
     name = "Projects"
-    url = "projects/"
+    url = "posts/"
     weight = "2"
 
 [[menu.main]]
