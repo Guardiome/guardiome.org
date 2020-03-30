@@ -1,5 +1,5 @@
 ---
-title: "Childhood Cancer Directory (for COVID-19) Pitch"
+title: "Childhood Cancer Directory (for COVID-19)"
 date: 2020-03-29T14:31:32-07:00
 ---
 
@@ -42,7 +42,7 @@ This has not been done because: the market for childhood cancer is small; buildi
 
 ### $
 
-We are in the process of becoming a 501(c)3 entity. We make money from grants and donations but we do not intend to profit from the Childhood Cancer Directory.
+We are 100% family owned and in the process of becoming a 501(c)3 entity. We make money from grants and donations but we do not intend to profit from the Childhood Cancer Directory.
 
 ### Risk
 
