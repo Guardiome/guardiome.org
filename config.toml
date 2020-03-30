@@ -8,6 +8,8 @@ disqusShortname = ""
 [author]
   name = "Guardiome"
 
+defaultTheme = "light"
+
 [params]
   dateform = "Jan 2, 2006"
   dateformShort = "Jan 2"
@@ -23,8 +25,6 @@ disqusShortname = ""
 [permalinks]
   posts = "/projects/:year/:month/:title/"
   contentTypeName = "projects"
-
-defaultTheme = "light"
 
 [languages]
   [languages.en]
