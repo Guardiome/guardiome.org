@@ -12,7 +12,7 @@ We will call them periodically, ask about their status, link them with resources
 {{< raw_html >}}
 
 <div class="button-container">
-    <a target="_blank" href="https://helpwithcovid.com/projects/115" class="button">Volunteer (@ Help with COVID)</a>
+    <a target="_blank" href="https://helpwithcovid.com/projects/115" class="button highlight-button">Volunteer (@ Help with COVID)</a>
 </div>
 
 {{< /raw_html >}}

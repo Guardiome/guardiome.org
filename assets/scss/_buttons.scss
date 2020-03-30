@@ -33,15 +33,15 @@ a.button {
     box-shadow: none;
     padding: 8px 18px;
 
-    .dark-theme & {
-      border-color: $dark-background-secondary;
-      color: inherit;
-    }
-
     :hover {
       transform: none;
       box-shadow: none;
     }
+  }
+
+  highlight-button {
+      background: #20d9ba;
+      color: #fff;
   }
 
   &.primary {
