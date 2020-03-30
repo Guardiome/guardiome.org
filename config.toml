@@ -24,7 +24,7 @@ defaultTheme = "light"
 
 [permalinks]
   posts = "/projects/:year/:month/:title/"
-  contentTypeName = "projects"
+  contentTypeName = "posts"
 
 [languages]
   [languages.en]
@@ -49,9 +49,9 @@ defaultTheme = "light"
     weight = "1"
 
 [[menu.main]]
-    identifier = "projects"
+    identifier = "posts"
     name = "Projects"
-    url = "projects/"
+    url = "posts/"
     weight = "2"
 
 [[menu.main]]
