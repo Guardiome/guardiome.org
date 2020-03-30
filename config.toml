@@ -34,7 +34,7 @@ defaultTheme = "light"
     copyright = ""
     readOtherPosts = "Read other projects"
 
-    homeSubtitle = "Health analytics for childhood cancer patients and survivors. xxx"
+    homeSubtitle = "Health analytics for childhood cancer patients and survivors."
 
     [languages.en.params.logo]
       logoText = "cd ~"
