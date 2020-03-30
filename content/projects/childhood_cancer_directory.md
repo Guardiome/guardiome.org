@@ -34,7 +34,7 @@ We will call them periodically, ask about their status, link them with resources
 
 ### Motivation
 
-I (Kwat) want this for myself (as a cancer survivor and as a future pediatric oncologist). There are only a few people (with my experience + skills) who are capable of doing this well. And I really want to disrupt the cancer status quo.
+I (Kwat) want this for myself (as a cancer survivor and as a future pediatric oncologist). It's urgent. I don’t think there are people (with my experience + skills) who are capable of doing this well. And I really want to disrupt the cancer status quo.
 
 ### Novelty
 

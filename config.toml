@@ -20,7 +20,9 @@ disqusShortname = ""
   keywords = ""
   images = [""]
 
-  contentTypeName = "posts"
+[permalinks]
+  posts = "/projects/:year/:month/:title/"
+  contentTypeName = "projects"
 
   defaultTheme = "light"
 
@@ -30,7 +32,7 @@ disqusShortname = ""
     subtitle = "Non-profit health analytics"
     keywords = ""
     copyright = ""
-    readOtherPosts = "Read other posts"
+    readOtherPosts = "Read other projects"
 
     homeSubtitle = "Health analytics for childhood cancer patients and survivors."
 
@@ -49,7 +51,7 @@ disqusShortname = ""
 [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/projects"
+    url = "projects/"
     weight = "2"
 
 [[menu.main]]

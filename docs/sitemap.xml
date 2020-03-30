@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://guardiome.org/merge_with_about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://guardiome.org/team/</loc>
     <priority>0</priority>
   </url>

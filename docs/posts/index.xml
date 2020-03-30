@@ -5,13 +5,13 @@
         <description>Recent content in Posts on Guardiome</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 18 Mar 2020 14:31:32 -0700</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2020 14:31:32 -0700</lastBuildDate>
         <atom:link href="https://guardiome.org/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Childhood Cancer Directory (for COVID-19) Pitch</title>
+            <title>Childhood Cancer Directory (for COVID-19)</title>
             <link>https://guardiome.org/posts/childhood_cancer_directory/</link>
-            <pubDate>Wed, 18 Mar 2020 14:31:32 -0700</pubDate>
+            <pubDate>Sun, 29 Mar 2020 14:31:32 -0700</pubDate>
             
             <guid>https://guardiome.org/posts/childhood_cancer_directory/</guid>
             <description>Children going through cancer treatment have no immune system. They can quickly die from COVID-19. We urgently need to protect them.
@@ -49,19 +49,12 @@ Volunteer (@ Help with COVID)  Reasons to Invest   There is no COVID-19 support 
 <p><a href="https://jamanetwork.com/journals/jamaoncology/fullarticle/2763673" target="_blank">SARS-CoV-2 Transmission in Patients With Cancer at a Tertiary Care Hospital in Wuhan, China</a></p>
 </li>
 </ul>
-
-
-<div class="button-container">
-    <a target="_blank" href="https://wefunder.com/guardiome" class="button">Invest (@ WeFunder)</a>
-</div>
-
-
 <h3 id="motivation">Motivation</h3>
-<p>I (Kwat) want this for myself (as a cancer survivor and as a future pediatric oncologist). There are only a few people (with my experience + skills) who are capable of doing this well. And I really want to disrupt the cancer status quo.</p>
+<p>I (Kwat) want this for myself (as a cancer survivor and as a future pediatric oncologist). It&rsquo;s urgent. I don’t think there are people (with my experience + skills) who are capable of doing this well. And I really want to disrupt the cancer status quo.</p>
 <h3 id="novelty">Novelty</h3>
 <p>This has not been done because: the market for childhood cancer is small; building this takes long term investment; and it takes someone who went through cancer to have the vision and drive to make it happen.</p>
 <h3 id="heading">$</h3>
-<p>We are in the process of becoming a 501(c)3 entity. We make money from grants and donations but we do not intend to profit from the Childhood Cancer Directory.</p>
+<p>We are 100% family owned and in the process of becoming a 501(c)3 entity. We make money from grants and donations but we do not intend to profit from the Childhood Cancer Directory.</p>
 <h3 id="risk">Risk</h3>
 <p>Our biggest risks are health data regulations, inconsistent messaging by volunteers, and volunteers failing to followthrough. To succeed, we must: make something that we want; ship fast; and hire slow.</p>
 <h3 id="progress">Progress</h3>
@@ -74,7 +67,7 @@ Volunteer (@ Help with COVID)  Reasons to Invest   There is no COVID-19 support 
         <item>
             <title>Support people facing COVID-19</title>
             <link>https://guardiome.org/posts/support_people_facing_covid-19/</link>
-            <pubDate>Sun, 08 Mar 2020 04:02:01 -0700</pubDate>
+            <pubDate>Sun, 29 Mar 2020 04:02:01 -0700</pubDate>
             
             <guid>https://guardiome.org/posts/support_people_facing_covid-19/</guid>
             <description>If you are experiencing medical emergency, call 911.
@@ -94,7 +87,20 @@ We are NOT healthcare providers. But we are healthy, with technology, and going 
 </ul>
 <p><em>Just let us know how we can help you.</em></p>
 <p>Kwat <span style="color:#20d9ba">@</span> +13109903458</p>
-<p>Kate <span style="color:#20d9ba">@</span> +13477561857</p>
+<p>Kate <span style="color:#9017e6">@</span> +13477561857</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Guardiome.com</title>
+            <link>https://guardiome.org/posts/guardiome.com/</link>
+            <pubDate>Mon, 16 Mar 2020 04:02:01 -0700</pubDate>
+            
+            <guid>https://guardiome.org/posts/guardiome.com/</guid>
+            <description>Guardiome.org makes software for analyzing health data.
+Guardiome.com sets up pipeline for generating health data.</description>
+            <content type="html"><![CDATA[<p>Guardiome.org makes software for analyzing health data.</p>
+<p><a href="https://guardiome.com" target="_blank">Guardiome.com</a> sets up pipeline for generating health data.</p>
 ]]></content>
         </item>
         
