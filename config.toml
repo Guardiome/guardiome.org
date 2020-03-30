@@ -24,7 +24,7 @@ disqusShortname = ""
   posts = "/projects/:year/:month/:title/"
   contentTypeName = "projects"
 
-  defaultTheme = "light"
+defaultTheme = "light"
 
 [languages]
   [languages.en]
