@@ -25,11 +25,6 @@ a.button {
   cursor: pointer;
   outline: none;
 
-  .dark-theme & {
-    background: $dark-background-secondary-highlight;
-    color: inherit;
-  }
-
   /* variants */
 
   &.outline {
