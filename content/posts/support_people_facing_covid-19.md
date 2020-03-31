@@ -1,6 +1,6 @@
 ---
 title: "Support people facing COVID-19"
-date: 2020-03-29T04:02:01-07:00
+date: 2020-03-08T04:02:01-06:00
 ---
 
 If you are experiencing medical emergency, call **911**.
