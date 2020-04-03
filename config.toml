@@ -49,9 +49,9 @@ defaultTheme = "light"
     weight = "1"
 
 [[menu.main]]
-    identifier = "posts"
+    identifier = "projects"
     name = "Projects"
-    url = "posts/"
+    url = "projects/"
     weight = "2"
 
 [[menu.main]]
