@@ -2,7 +2,7 @@
 
 ## 1 line
 
-Software company for kids expriencing cancer
+We make software for kids experiencing cancer.
 
 ## Kids
 
@@ -27,4 +27,3 @@ Support treatments
 Forcast side effects
 
 ## Potential
-
