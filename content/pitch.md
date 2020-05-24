@@ -14,6 +14,8 @@ Living normal life after remission
 
 ## Software
 
+Integrate public data
+
 Classify cancers into subtypes
 
 Characterize cancers
