@@ -8,7 +8,7 @@ I code, compute, and model diseases -- especially cancers.
 
 ## Background
 
-Poor nomad in Kazakhstan &rarr; China &rarr; Japan &rarr; FIBA U16 Olympian &rarr; USA &rarr; Leukemia &rarr; Survive &rarr; Homeless &rarr; Startup &rarr; Stanford MD-PhD student (&rarr; Pediatric oncologist &rarr; End childhood cancer worldwide by 2040)
+Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Survive → Homeless → Startup → Stanford MD-PhD candidate (→ Pediatric oncologist → Solve childhood cancer worldwide by 2032)
 
 ---
 
@@ -32,9 +32,9 @@ BS, Bioinformatics & Bioengineering {{< color_text "#20d9ba" "@">}} UC San Diego
 
 MD, Medicine {{< color_text "#20d9ba" "@">}} Stanford University
 
-##### 202108 - Present
+##### 201908 - Present
 
-PhD, Biophysics {{< color_text "#20d9ba" "@">}} Stanford University
+PhD, Biomedical Informatics {{< color_text "#20d9ba" "@">}} Stanford University
 
 ---
 

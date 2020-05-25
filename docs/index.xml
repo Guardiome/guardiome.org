@@ -96,7 +96,7 @@ Business
       
       <guid>https://guardiome.org/kwat/</guid>
       <description>Kwat Medetgul-Ernar  I code, compute, and model diseases &amp;ndash; especially cancers.
- Background Poor nomad in Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Survive → Homeless → Startup → Stanford MD-PhD student (→ Pediatric oncologist → End childhood cancer worldwide by 2040)
+ Background Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Survive → Homeless → Startup → Stanford MD-PhD candidate (→ Pediatric oncologist → Solve childhood cancer worldwide by 2032)
  Craft Computational Mathematics
 Informatics
 Medicine
@@ -113,6 +113,26 @@ Medicine
       <description>Motivation I (Kwat) want this for myself (as a cancer survivor and as a future pediatric oncologist). It&amp;rsquo;s urgent. I don’t think there are people (with my experience + skills) who are capable of doing this well. And I really want to disrupt the cancer status quo.
 Novelty Companies in this general space: Cota, Celcuity, Flatiron Health, Foundation Medicine, MedWhat, Predictive Oncology, Proscia, and Tempus.
 There is no analytics platform for cancer patients today.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guardiome.org/pitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guardiome.org/pitch/</guid>
+      <description>Pitch 1 line We make software for kids experiencing cancer.
+Kids Going through cancer treatment
+Having finished their cancer treatment and (are in remission)
+Living normal life after remission
+Software Integrate public data
+Classify cancers into subtypes
+Characterize cancers
+Find the closest sample
+Track treatments
+Support treatments
+Forcast side effects
+Potential </description>
     </item>
     
     <item>
