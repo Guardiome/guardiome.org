@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.example.com/team/kate/</loc>
+    <loc>https://guardiome.org/team/kate/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/team/kwat/</loc>
+    <loc>https://guardiome.org/team/kwat/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/categories/</loc>
+    <loc>https://guardiome.org/categories/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/childhood_cancer_directory/</loc>
+    <loc>https://guardiome.org/childhood_cancer_directory/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/</loc>
+    <loc>https://guardiome.org/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/404/</loc>
+    <loc>https://guardiome.org/404/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/tags/</loc>
+    <loc>https://guardiome.org/tags/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/team/</loc>
+    <loc>https://guardiome.org/team/</loc>
   </url>
   
 </urlset>

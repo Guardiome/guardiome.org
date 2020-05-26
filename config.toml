@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://guardiome.org"
 languageCode = "en-us"
 title = "Guardiome"
 themesDir = "themes"
