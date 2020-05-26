@@ -11,7 +11,7 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/g_only_logo_white.png"
     standard  = "images/logo_text_only_merriweather.png"
     alt = "Guardiome"
 
