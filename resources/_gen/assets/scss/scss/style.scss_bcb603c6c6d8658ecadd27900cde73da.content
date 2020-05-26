@@ -4330,6 +4330,11 @@ ol {
 .lock-scroll {
   overflow: hidden; }
 
+.ccd-link-mobile {
+  color: #fff;
+  text-decoration: none;
+  margin: 20px 0; }
+
 .hamburger {
   padding: 10px 0 10px 10px;
   outline: none;
