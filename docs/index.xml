@@ -1,84 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guardiome</title>
-    <link>https://guardiome.org/</link>
-    <description>Recent content on Guardiome</description>
+    <title>Home on Guardiome</title>
+    <link>www.example.com/</link>
+    <description>Recent content in Home on Guardiome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 14:31:32 -0700</lastBuildDate>
     
-	<atom:link href="https://guardiome.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Childhood Cancer Directory (for COVID-19)</title>
-      <link>https://guardiome.org/projects/childhood_cancer_directory/</link>
-      <pubDate>Sun, 29 Mar 2020 14:31:32 -0700</pubDate>
-      
-      <guid>https://guardiome.org/projects/childhood_cancer_directory/</guid>
-      <description>Children going through cancer treatment have no immune system. They can quickly die from COVID-19. We have to protect them.
-In this project, we will put together their contact information in a directory and assign medical students to check on them.
-We will call them periodically, ask about their status, link them with resources, order them food, deliver them stuff, and do whatever we can.
-Volunteer (@ Help with COVID)  Why we need this right now.</description>
-    </item>
-    
-    <item>
-      <title>Guardiome.com</title>
-      <link>https://guardiome.org/projects/guardiome.com/</link>
-      <pubDate>Mon, 16 Mar 2020 04:02:01 -0700</pubDate>
-      
-      <guid>https://guardiome.org/projects/guardiome.com/</guid>
-      <description>Guardiome.org makes software for analyzing health data.
-Guardiome.com sets up pipeline for generating health data.</description>
-    </item>
-    
-    <item>
-      <title>Support people facing COVID-19</title>
-      <link>https://guardiome.org/projects/support_people_facing_covid-19/</link>
-      <pubDate>Sun, 08 Mar 2020 04:02:01 -0600</pubDate>
-      
-      <guid>https://guardiome.org/projects/support_people_facing_covid-19/</guid>
-      <description>If you are experiencing medical emergency, call 911.
-If you need someone to talk to, you can call me or Kate. We are here for you.
-We are NOT healthcare providers. But we are healthy, with technology, and going to try to help you:
- Take your call, facetime, and text ~24/7 Answer your questions Link you with your local support system Connect you with a healthy person nearby Order you food Ship you things  Just let us know how we can help you.</description>
-    </item>
     
     <item>
       <title></title>
-      <link>https://guardiome.org/about/</link>
+      <link>www.example.com/team/kate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guardiome.org/about/</guid>
-      <description>About  We make analytics software for childhood cancers.
-Our software will help doctors treat children with cancer and help the children engage in their treatment.
-Our analytics help doctors characterize childhood cancer, prioritize their treatment, predict their response and track their recovery.
-Our analytics help children, understand their disease, learn about their treatment, take their medications, forecast their health, and improve their health after treatment.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/childhood_cancer_statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/childhood_cancer_statistics/</guid>
-      <description>Childhood Cancer Statistics In the US:
-Every day, 43 children are diagnosed with cancer.
-Childhood cancer affects all gender, ethnic, and socio-economic groups.
-The average age of diagnosis is six.
-Over 40,000 children get cancer treatment each year.
-12% of children with cancer do not survive.
-There are 375,000 childhood cancer survivors, which is 1 in 530 adults ages 20-39.
-60% of the cancer survivors suffer late-effects like heart failure, infertility, and secondary cancers.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/kate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/kate/</guid>
+      <guid>www.example.com/team/kate/</guid>
       <description>Kate Medetgul-Ernar  I do hardcore genomics.
  Background Farm in North Carolina → NYC → Professional Ballet Dancer → UCSD → Biologist → Data Analyst → Mother → Startup
  Craft Genomics
@@ -91,10 +28,10 @@ Business
     
     <item>
       <title></title>
-      <link>https://guardiome.org/kwat/</link>
+      <link>www.example.com/team/kwat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guardiome.org/kwat/</guid>
+      <guid>www.example.com/team/kwat/</guid>
       <description>Kwat Medetgul-Ernar  I code, compute, and model diseases &amp;ndash; especially cancers.
  Background Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Survive → Homeless → Startup → Stanford MD-PhD candidate (→ Pediatric oncologist → Solve childhood cancer worldwide by 2032)
  Craft Computational Mathematics
@@ -105,48 +42,13 @@ Medicine
     </item>
     
     <item>
-      <title></title>
-      <link>https://guardiome.org/merge_with_about/</link>
+      <title>Childhood Cancer Directory</title>
+      <link>www.example.com/childhood_cancer_directory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guardiome.org/merge_with_about/</guid>
-      <description>Motivation I (Kwat) want this for myself (as a cancer survivor and as a future pediatric oncologist). It&amp;rsquo;s urgent. I don’t think there are people (with my experience + skills) who are capable of doing this well. And I really want to disrupt the cancer status quo.
-Novelty Companies in this general space: Cota, Celcuity, Flatiron Health, Foundation Medicine, MedWhat, Predictive Oncology, Proscia, and Tempus.
-There is no analytics platform for cancer patients today.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/pitch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/pitch/</guid>
-      <description>Pitch 1 line We make software for kids experiencing cancer.
-Kids Going through cancer treatment
-Having finished their cancer treatment and (are in remission)
-Living normal life after remission
-Software Integrate public data
-Classify cancers into subtypes
-Characterize cancers
-Find the closest sample
-Track treatments
-Support treatments
-Forcast side effects
-Potential </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guardiome.org/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guardiome.org/team/</guid>
-      <description>Team  Members Kwat Medetgul-Ernar
-Kate Medetgul-Ernar
- Scientific Advisors Pablo Tamayo
-Laura Niklason
-Silvio Gutkind
- Supporters Paul Graham</description>
+      <guid>www.example.com/childhood_cancer_directory/</guid>
+      <description>The Problem The feedback loop between kids with cancer and their families expressing a problem they face, and a solution being built that solves that problem, is pathetically slow. Thus, the basic needs of kids with cancer and their families are left unmet. These needs include:
+ hospital transportation financial support lifestyle tips specific to treatment regiment  Our Solution We built a low-risk, low-barrier-of-entry directory for kids with cancer and their families at childhoodcancerdirectory.</description>
     </item>
     
   </channel>

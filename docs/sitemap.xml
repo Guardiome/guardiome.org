@@ -3,71 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guardiome.org/projects/childhood_cancer_directory/</loc>
-    <lastmod>2020-03-29T14:31:32-07:00</lastmod>
+    <loc>www.example.com/team/kate/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/</loc>
-    <lastmod>2020-03-29T14:31:32-07:00</lastmod>
+    <loc>www.example.com/team/kwat/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/projects/</loc>
-    <lastmod>2020-03-29T14:31:32-07:00</lastmod>
+    <loc>www.example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/projects/guardiome.com/</loc>
-    <lastmod>2020-03-16T04:02:01-07:00</lastmod>
+    <loc>www.example.com/childhood_cancer_directory/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/projects/support_people_facing_covid-19/</loc>
-    <lastmod>2020-03-08T04:02:01-06:00</lastmod>
+    <loc>www.example.com/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/about/</loc>
-    <priority>0</priority>
+    <loc>www.example.com/404/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/childhood_cancer_statistics/</loc>
-    <priority>0</priority>
+    <loc>www.example.com/tags/</loc>
   </url>
   
   <url>
-    <loc>https://guardiome.org/kate/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/kwat/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/merge_with_about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/pitch/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/team/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://guardiome.org/tags/</loc>
+    <loc>www.example.com/team/</loc>
   </url>
   
 </urlset>

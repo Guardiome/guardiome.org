@@ -1,0 +1,73 @@
+a {
+  color: $primary;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+p {
+  line-height: 26px;
+  color: $steel;
+  font-family: $font-family-base;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 20px;
+  font-family: $font-family-heading;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  @include media-breakpoint-up(md) {
+    font-size: 32px;
+    line-height: 1.2;
+  }
+}
+h2 {
+  font-size: 22px;
+  font-family: $font-family-heading;
+  line-height: 1.4;
+  font-weight: 500;
+  margin: 15px 0px;
+  @include media-breakpoint-up(md) {
+    font-size: 26px;
+    line-height: 1.4;
+  }
+}
+h3 {
+  font-size: 16px;
+  line-height: 1.4;
+  @include media-breakpoint-up(md) {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+}
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  li {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.homepage-title {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.team-title {
+    font-family: Merriweather, sans-serif !important; 
+    font-weight: 700; 
+    font-size: 1.5rem !important;
+    padding-top: 40px;
+}
+
+.team-person {
+    font-size: 1.2rem;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px 0px !important;
+    &:hover {
+        color: lighten(#20d9ba, 20%);
+    }
+}

@@ -1,0 +1,51 @@
+.main-menu {
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
+  > ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    > li {
+      list-style: none;
+      font-size: 1rem;
+      > a {
+        padding: 10px 14px 10px 14px;
+        display: inline-block;
+        font-family: Merriweather, sans-serif;
+        font-weight: bold;
+        text-decoration: none;
+        color: $primary;
+        &:hover {
+          color: lighten(#20d9ba, 20%);
+        }
+      }
+      &.active {
+        > a {
+          background: $primary;
+          border-radius: 3px;
+          text-decoration: none;
+          color: #ffffff;
+          &:hover {
+            text-decoration: none;
+            background: $primary;
+            transition: all 225ms ease-in 0s;
+            color: #ffffff;
+          }
+        }
+      }
+    }
+  }
+}
+
+.ccd-link {
+    text-decoration: none;
+    font-family: Merriweather, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    padding-left: 15px;
+    &:hover {
+        color: lighten(#20d9ba, 20%);
+    }
+}

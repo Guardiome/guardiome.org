@@ -1,26 +1,16 @@
-@charset "UTF-8";
+$primary: #20d9ba;
+$secondary: #f88379;
+$black: #2f2f41;
+$white: #ffffff;
+$steel: rgb(92, 90, 90);
+$ghost: #f4f5fb;
 
-/* light theme color */
-$light-background: #fff;
-$light-background-secondary: #999999;
-$light-background-secondary-highlight: #20d9ba;
-$light-color: #222;
-$light-color-secondary: #999;
-$light-border-color: #dcdcdc;
+// Links
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-color: lighten($primary, 20%);
+$link-hover-decoration: underline;
 
-/* dark theme colors */
-$dark-background: #fff;
-$dark-background-secondary: #fafafa;
-$dark-background-secondary-highlight: #20d9ba;
-$dark-color: #222;
-$dark-color-secondary: #999;
-$dark-border-color: #dcdcdc;
-
-$media-size-phone: "(max-width: 684px)";
-$media-size-tablet: "(max-width: 900px)";
-
-/* variables for js, must be the same as these in @custom-media queries */
-:root {
-  --phoneWidth: (max-width: 684px);
-  --tabletWidth: (max-width: 900px);
-}
+// Fonts
+$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: Merriweather, serif, -apple-system;

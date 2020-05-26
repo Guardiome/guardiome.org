@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Helps Oncologists",
+    "description": "Our analytics help doctors characterize childhood cancer, prioritize their treatment, predict their response and track their recovery.",
+    "image": "images/features/doctor_1.svg"
+  },
+  {
+    "title": "Helps Kids With Cancer",
+    "description": "Our analytics help children, understand their disease, learn about their treatment, take their medications, forecast their health, and improve their health after treatment.",
+    "image": "images/features/kids.svg"
+  }
+]

@@ -1,0 +1,42 @@
+.intro {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 40px;
+  overflow: hidden;
+  @include media-breakpoint-up(md) {
+  }
+  h1 {
+    color: $black;
+    font-size: 42px;
+    line-height: 1.2;
+    font-weight: 700;
+    @include media-breakpoint-up(md) {
+      width: 80%;
+      font-size: 44px;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 46px;
+    }
+  }
+  h2 {
+    width: 80%;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    margin-bottom: 30px;
+    color: $black;
+    font-family: $font-family-base;
+  }
+  p {
+    width: 80%;
+    font-size: 1.2rem;
+    font-weight: light;
+    line-height: 1.5;
+    color: $black;
+  }
+}
+
+.intro-small {
+  padding-top: 100px;
+  padding-bottom: 30px;
+}

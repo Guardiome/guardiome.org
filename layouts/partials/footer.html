@@ -1,16 +1,25 @@
-<footer class="footer">
-    <div class="footer__inner">
-        <div class="footer__content">
-            <a class="dbox-donation-button" style="background: #20d9ba url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 18px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 10px 16px;padding-left: 56px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;box-shadow: 0 2px 0 0 #169681;text-shadow: 0 2px rgba(0, 0, 0, 0.3);" href="https://donorbox.org/guardiome?default_interval=o">Donate</a>
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h3 class="footer-title">{{.Site.Title}}</h3>
+          <div class="footer-email">
+            <a href="mailto:team@guardiome.org"><img class="footer-icon" src="/images/email.png"></a>
+            <p class="footer-email-text">team@guardiome.org</p>
+          </div> 
+          <ul>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.footer }}
+            <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+              <a target="_blank" href="{{.URL}}">
+                {{ .Name }}
+              </a>
+            </li>
+            {{end}}
+          </ul>
         </div>
+      </div>
     </div>
-    <br>
-    <div class="footer__inner">
-        <div class="footer__content">
-            {{ if .Site.Author.name }}
-                <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
-            {{ end }}
-            <span>&copy; {{ now.Format "2006" }}</span>
-        </div>
-    </div>
-</footer>
+  </div>
+</div>

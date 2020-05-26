@@ -1,0 +1,16 @@
+<div id="main-menu" class="main-menu">
+  <ul>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+      <a href="{{.URL}}">
+        {{ .Pre }}
+        <span>{{ .Name }}</span>
+      </a>
+    </li>
+      <a class="ccd-link" target="_blank" href="https://childhoodcancerdirectory.org">
+        <span>Childhood Cancer Directory</span>
+      </a>
+    {{end}}
+  </ul>
+</div>

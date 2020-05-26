@@ -1,17 +1,93 @@
+{{ define "title" }}{{ .Site.Params.title }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}header-transparent{{ end }}
+
+{{ define "meta_tags" }}
+<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
+<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
+<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
+<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
+<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
+<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
+<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
+<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+{{ end }}
+
 {{ define "main" }}
-    <main aria-role="main">        
-        <div>
-            <h1>{{ .Site.Title }}</h1>
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
 
-            {{- with .Site.Params.homeSubtitle }}
-                <p>{{.}}</p>
-            {{- end }}
+        <h1 class="homepage-title">
+            Guardiome
+        </h1>
 
-            {{- with .Site.Params.social }}
-                <div>
-                    {{ partial "social-icons.html" . }}
-                </div>
-            {{- end }}
+        {{ .Content }}
+        <!--{{ partial "call.html" . }} -->
+        
+        <div class="donate-button"> 
+            <a class="dbox-donation-button" style="background: #20d9ba url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 18px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 10px 16px;padding-left: 56px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;box-shadow: 0 2px 0 0 #169681;text-shadow: 0 2px rgba(0, 0, 0, 0.3);" href="https://donorbox.org/guardiome?default_interval=o">Donate</a>
         </div>
-    </main>
+
+      </div>
+      {{ if .Params.intro_image }}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative no-left-padding">
+        <img
+          class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+          src="{{ .Params.intro_image | relURL }}" />
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+
+{{if .Site.Data.features}}
+<div class="strip">
+  <div class="container feature-strip">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 col-lg-6 pt-3 pb-3">
+        <div class="feature">
+          <div class="feature-image"><img alt="Helps Kids With Cancer logo" src="images/features/kids.svg" /></div>
+          <h2 class="feature-title">For the Kids</h2>
+          <div class="feature-content">
+            <p>Our analytics will help children understand their disease, learn about their treatment, take their medications, forecast their health, and improve their health after treatment.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-6 pt-3 pb-3 feature-block">
+        <div class="feature">
+          <div class="feature-image"><img alt="Helps Oncologists logo" src="images/features/doctor_1.svg" /></div>
+          <h2 class="feature-title">For the Doctors</h2>
+          <div class="feature-content">
+            <p>Our analytics will help doctors characterize childhood cancer, prioritize their treatment, predict their response and track their recovery.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+{{end}}
+
+<div class="strip strip-grey">
+<div class="container pt-8 pb-8 pb-md-5">
+  <div class="row justify-content-center">
+    <h1 class="ccd-title">The Childhood Cancer Directory</h1>
+  </div>
+    <div class="ccd-button-row">
+        <a class="button ccd-button" target="_blank" href="https://childhoodcancerdirectory.org">Join</a>
+    </div>
+ 
+  
+    <p class="ccd-text">The Childhood Cancer Directory is a support network for kids experiencing cancer. We list valuable resources for kids with cancer and their families. We have mentors, including cancer survivors and medical students, who meet with them and help in all sorts of ways. We want to not only get them through cancer, but make them successful in life.</p>
+</div>
+</div>
+
+{{ end }}
+
+{{ define "footer_js" }}
 {{ end }}
