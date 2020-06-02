@@ -92,8 +92,6 @@ Pablo Tamayo
 
 Elon Musk
 
-Jack Ma
-
 Paul Graham
 
 James Dyson
@@ -108,8 +106,8 @@ Johannes Kepler
 
 Hazama Kuroo
 
-John Paul Shen
-
 Suzuki Ichiro
+
+Michael Jordan
 
 Kobe Bryant
