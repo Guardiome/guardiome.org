@@ -4367,7 +4367,6 @@ ol {
   border-radius: 4px;
   font-size: 15px;
   font-weight: 600;
-  text-transform: uppercase;
   letter-spacing: 0.025em;
   color: #ffffff;
   text-decoration: none;
@@ -4380,9 +4379,23 @@ ol {
     box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
     text-decoration: none; }
 
-.donate-button {
+.donate-button-container {
   margin-top: 40px;
   margin-bottom: 60px; }
+
+.donate-button-donorbox {
+  background: #20d9ba url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 18px;
+  color: #fff;
+  text-decoration: none;
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 16px;
+  padding-left: 56px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px; }
 
 .ccd-button-row {
   justify-content: center;
@@ -4391,7 +4404,10 @@ ol {
   padding-bottom: 40px; }
 
 .ccd-button {
-  min-width: 120px; }
+  min-width: 120px;
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 20px; }
 
 .call {
   position: relative;
@@ -4520,7 +4536,7 @@ ol {
     width: 80%;
     font-size: 1.3rem;
     line-height: 1.4;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     color: #2f2f41;
     font-family: Helvetica, Arial, sans-serif, -apple-system; }
   .intro p {
