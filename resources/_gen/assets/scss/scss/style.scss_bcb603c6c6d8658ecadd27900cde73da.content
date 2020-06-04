@@ -4011,7 +4011,7 @@ ol {
     margin: 0; }
 
 .homepage-title {
-  margin-top: 80px;
+  margin-top: 130px;
   margin-bottom: 40px; }
 
 .team-title {
