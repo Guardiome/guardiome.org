@@ -60,7 +60,7 @@ Cofounder and All Positions {{< color_text "#20d9ba" "@">}} Guardiome
 
 ##### 201510 - Present
 
-Data Analyst {{< color_text "#20d9ba" "@">}} Computational Cancer Analysis Lab {{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
+Data Analyst {{< color_text "#20d9ba" "@">}} Pablo Tamayo Lab {{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
 
 ##### 202006 - Present
 
