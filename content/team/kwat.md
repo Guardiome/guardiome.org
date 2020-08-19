@@ -6,7 +6,7 @@ I code, compute, and model diseases.
 
 ## Background
 
-Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Survive → Homeless → Startup → Stanford MD-PhD candidate →
+Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Homeless → Startup → Stanford MD-PhD candidate →
 
 ---
 
