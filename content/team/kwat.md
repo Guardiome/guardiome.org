@@ -68,19 +68,7 @@ PhD Candidate {{< color_text "#20d9ba" "@">}} Ronald Davis Lab {{< color_text "#
 
 ---
 
-## Code
-
-[https://github.com/kwatme](https://github.com/kwatme)
-
----
-
-## Publication
-
-[https://scholar.google.com/citations?user=PAM4lScAAAAJ](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
-
----
-
-## Influencer
+## Inspiration
 
 Claude Shannon
 
@@ -107,3 +95,17 @@ Suzuki Ichiro
 Michael Jordan
 
 Kobe Bryant
+
+---
+
+## Link
+
+[Log](https://www.instagram.com/kwat.me)
+
+[Idea](https://twitter.com/kwatme)
+
+[Video](https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A)
+
+[Code](https://github.com/kwatme)
+
+[Publication](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
