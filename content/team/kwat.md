@@ -1,14 +1,12 @@
 # Kwat Medetgul-Ernar
 
----
-
-I code, compute, and model diseases -- especially cancers.
+I code, compute, and model diseases.
 
 ---
 
 ## Background
 
-Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Survive → Homeless → Startup → Stanford MD-PhD candidate (→ Pediatric oncologist → Solve childhood cancer worldwide by 2032)
+Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Homeless → Startup → Stanford MD-PhD candidate →
 
 ---
 
@@ -16,7 +14,7 @@ Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leuk
 
 Computational Mathematics
 
-Informatics
+Information Theory
 
 Medicine
 
@@ -62,29 +60,15 @@ Cofounder and All Positions {{< color_text "#20d9ba" "@">}} Guardiome
 
 ##### 201510 - Present
 
-Data Analyst {{< color_text "#20d9ba" "@">}} Computational Cancer Analysis Lab {{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
+Data Analyst {{< color_text "#20d9ba" "@">}} Pablo Tamayo Lab {{< color_text "#20d9ba" "@">}} UCSD Moores Cancer Center
+
+##### 202006 - Present
+
+PhD Candidate {{< color_text "#20d9ba" "@">}} Ronald Davis Lab {{< color_text "#20d9ba" "@">}} Stanford Genome Technology Center
 
 ---
 
-## Code
-
-[https://github.com/KwatME](https://github.com/KwatME)
-
----
-
-## Publication
-
-[https://scholar.google.com/citations?user=PAM4lScAAAAJ](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
-
----
-
-## Video
-
-[https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A](https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A)
-
----
-
-## Influencer
+## Inspiration
 
 Claude Shannon
 
@@ -111,3 +95,17 @@ Suzuki Ichiro
 Michael Jordan
 
 Kobe Bryant
+
+---
+
+## Link
+
+[Log](https://www.instagram.com/kwat.me)
+
+[Idea](https://twitter.com/kwatme)
+
+[Video](https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A)
+
+[Code](https://github.com/kwatme)
+
+[Publication](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
