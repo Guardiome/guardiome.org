@@ -4128,7 +4128,11 @@ ol {
 
 .footer-email-text {
   margin-bottom: 0 !important;
-  color: #acacc3; }
+  color: #acacc3;
+  text-decoration: none; }
+
+.footer-email-text:hover {
+  color: #20d9ba; }
 
 .sub-footer {
   background: #1a1a23;
