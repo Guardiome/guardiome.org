@@ -109,3 +109,5 @@ Kobe Bryant
 [Code](https://github.com/kwatme)
 
 [Publication](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
+
+[Zoom](https://us04web.zoom.us/j/3450770299?pwd=OFlPSVU1czBWWVgreHNrcmxzMzFpdz09) (ask for password)
