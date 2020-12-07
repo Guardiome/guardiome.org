@@ -37,6 +37,5 @@ theme = "hugo-serif-theme"
   # Footer Menu
 
   [[menu.footer]]
-    name = "Guardiome.com"
-    url = "https://guardiome.com"
+    name = "Guardiome © 2020"
       weight = 1

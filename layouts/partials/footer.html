@@ -11,9 +11,7 @@
             {{ $currentPage := . }}
             {{ range .Site.Menus.footer }}
             <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
-              <a target="_blank" href="{{.URL}}">
                 {{ .Name }}
-              </a>
             </li>
             {{end}}
           </ul>
